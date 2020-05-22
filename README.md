@@ -8,7 +8,7 @@
 
 # 目录
 
-| 系列               | 链接                                                         |
+| **系列**           | **系列链接**                                                 |
 | ------------------ | ------------------------------------------------------------ |
 | **AI**             | [链接](https://github.com/cunyu1943/amazing-books/blob/master/AI.md) |
 | **Algorithm**      | [链接](https://github.com/cunyu1943/amazing-books/blob/master/Algorithm.md) |
