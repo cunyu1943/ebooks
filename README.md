@@ -30,7 +30,7 @@
 
 由于 Github 容量以及上传大小有限制，而有的文件大小超出限制，因此没有直接给出文件进行下载。
 
-推荐搜索 <font size=5 color=red>村雨遥</font> 或长按下方二维码关注公众号，后台回复 【<font color=red size=5>资源下载</font>】，获取下载链接。
+推荐搜索 【**<font size=5 color=red>村雨遥</font>** 】或长按下方二维码关注公众号，后台回复 【**<font color=red size=5>资源下载</font>**】，获取下载链接。
 
 ![](https://gitee.com/cunyu1943/images/raw/master/ImgsUbuntu/20200513141403.png)
 
