@@ -1,5 +1,7 @@
 # amazing-books
 
+>   声明，所有资源均收集自网络，只用作交流学习用途，请勿用作商业用途传播并在下载资源后 24 小时内删除。若侵犯个人权益，请联系小编立即删除相关资源，在此不胜感激！
+
 # 项目简介
 
 -   书籍来源：网络收集
@@ -24,3 +26,12 @@
 | **办公**           | [链接](https://github.com/cunyu1943/amazing-books/blob/master/%E5%8A%9E%E5%85%AC.md) |
 | **个人提升**       | [链接](https://github.com/cunyu1943/amazing-books/blob/master/%E4%B8%AA%E4%BA%BA%E6%8F%90%E5%8D%87.md) |
 
+# 下载说明
+
+由于 Github 容量以及上传大小有限制，而有的文件大小超出限制，因此没有直接给出文件进行下载。
+
+推荐搜索 <font size=5 color=red>村雨遥</font> 或长按下方二维码关注公众号，后台回复 【<font color=red size=5>资源下载</font>】，获取下载链接。
+
+![](https://gitee.com/cunyu1943/images/raw/master/ImgsUbuntu/20200513141403.png)
+
+![](https://user-gold-cdn.xitu.io/2020/5/22/1723b5a04789f551?w=1080&h=2248&f=jpeg&s=383248)
