@@ -35,3 +35,19 @@
 ![](https://gitee.com/cunyu1943/images/raw/master/ImgsUbuntu/20200513141403.png)
 
 ![](https://user-gold-cdn.xitu.io/2020/5/22/1723b5a04789f551?w=1080&h=2248&f=jpeg&s=383248)
+
+# 联系作者
+
+建议关注公众号 【**村雨遥**】，此外也可以通过下面其他方式找到我。
+
+![](https://gitee.com/cunyu1943/images/raw/master/ImgsUbuntu/20200510234310.png)
+
+> - [![私人微信](https://img.shields.io/badge/私人微信-ZL747731461-brightgreen)]()
+> - [![公众号](https://img.shields.io/badge/公众号-村雨遥-brightgreen)]()
+> - [![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%E6%9D%91%E9%9B%A8%E9%81%A5-brightgreen)](https://www.zhihu.com/people/cunyu1943)
+> - [![个人博客](https://img.shields.io/badge/个人博客-https%3A%2F%2Fcunyu1943.github.io-brightgreen)](https://cunyu1943.github.io/)
+> - [![Github](https://img.shields.io/badge/Github-村雨遥-brightgreen)](https://github.com/cunyu1943)
+> - [![Gitee](https://img.shields.io/badge/Gitee-村雨遥-brightgreen)](https://gitee.com/cunyu1943)
+> - [![CSDN](https://img.shields.io/badge/CSDN-%E6%9D%91%E9%9B%A8%E9%81%A5-brightgreen)](https://blog.csdn.net/github_39655029)
+> - [![简书](https://img.shields.io/badge/%E7%AE%80%E4%B9%A6-%E6%9D%91%E9%9B%A8%E9%81%A5-brightgreen)](https://www.jianshu.com/u/9fd25635ae22)
+> - [![腾讯云社区](https://img.shields.io/badge/腾讯云社区-村雨遥-brightgreen)](https://cloud.tencent.com/developer/user/6209990)
