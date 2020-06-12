@@ -37,9 +37,7 @@
 
 推荐搜索 【**<font size=5 color=red>村雨遥</font>** 】或长按下方二维码关注公众号，后台回复 【**<font color=red size=5>资源下载</font>**】，获取下载链接。
 
-![](https://user-gold-cdn.xitu.io/2020/5/24/172466bce3ae7294?w=900&h=500&f=png&s=59147)
-
-![](https://user-gold-cdn.xitu.io/2020/5/26/1724fa3463f28d08?w=1080&h=2340&f=jpeg&s=630195)
+![](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X3BuZy9ieU1sQkdYNjRJQ3llSTJGb0JVS3poTlFlNXlHTHJXQ1k4NEZrYmc3eHQxWlM3bktqdWdaNU1VZ2JhTDlmbWw3R1J5d2Z3MG9PTm5DZHFzbTZGMjBZUS82NDA?x-oss-process=image/format,png)
 
 # 联系作者
 
