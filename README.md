@@ -1,5 +1,7 @@
 # 📚 amazing-books
 
+![GitHub forks](https://img.shields.io/github/forks/cunyu1943/amazing-books?color=G&label=Fork) ![GitHub stars](https://img.shields.io/github/stars/cunyu1943/amazing-books?color=G&label=Stars)
+
 >   声明，所有资源均收集自网络，推荐通过其他途径购买正版。只用作交流学习用途，请勿用作商业用途传播并在下载资源后 24 小时内删除，。若侵犯个人权益，请联系小编立即删除相关资源，在此不胜感激！
 
 如果对你有用，可以点击右上角 **Star** ❤❤❤ 表示支持一下哦 🙏🙏🙏！
