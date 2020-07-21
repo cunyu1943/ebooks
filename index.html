@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>amazing-websites</title>
+  <link rel="icon" href="media/img/favicon.ico">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Description">
+  <meta name="viewport"
+    content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.css" />
+  <!-- alert 样式 -->
+  <link rel="stylesheet" href="https://cdn.bootcss.com/sweetalert/1.1.3/sweetalert.min.css" type='text/css'
+    media='all' />
+
+
+  <style>
+    .advertisement {
+      position: fixed;
+      right: 20px;
+      top: 100px;
+      width: 110px;
+      box-shadow: -1px 0 2px 0px #c5ebda;
+      padding: 10px;
+      z-index: 99;
+      background-color: #fff;
+      text-align: center;
+    }
+
+    .advertisement p,
+    h4 {
+      margin: 0;
+      padding: 0;
+    }
+
+    .advertisement .Tencent_code h4 {
+      font-size: 15px;
+      color: #25a46a;
+      margin-bottom: 10px;
+    }
+
+    .over {
+      width: 40px;
+      height: 40px;
+      border: 1px solid #000001;
+      border-radius: 50%;
+      text-align: center;
+      line-height: 40px;
+      margin: 20px auto 5px;
+      text-shadow: 0 0 black;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="app">🏃‍🏃‍🏃‍💨 加载中...</div>
+
+  <div class="aside_container">
+    <div class="advertisement">
+      <div class="Tencent_code">
+        <h4>关注公众号</h4>
+        <p style="font-size: 12px;">获取最新文章</p>
+        <img src="https://s1.ax1x.com/2020/07/08/UZVch8.png" alt="村雨遥" />
+      </div>
+    </div>
+
+
+  </div>
+
+
+  <!-- docsify-edit-on-github -->
+  <script src="//unpkg.com/docsify-edit-on-github/index.js"></script>
+  <script>
+    // 离线支持
+    if (typeof navigator.serviceWorker !== 'undefined') {
+      navigator.serviceWorker.register('sw.js')
+    }
+
+    window.$docsify = {
+      name: '📝 村雨遥',
+      repo: 'https://github.com/cunyu1943/amazing-websites',
+      maxLevel: 3,//最大支持渲染的标题层级
+      // 导航栏
+      loadNavbar: true,
+      mergeNavbar: true,//Navbar将在小屏幕上与侧边栏合并
+      // 404
+      notFoundPage: true,
+      // 更新时间
+      formatUpdated: '{YYYY}-{MM}-{DD}, {HH}:{MM}',
+
+      // docsify-copy-code (defaults)
+      copyCode: {
+        buttonText: '点击复制',
+        errorText: '复制失败',
+        successText: '复制成功'
+      },
+      // Valine 评论
+      Valine: {
+        appId: '1u8xBo8jtHJxOss3RSjmM5b4-gzGzoHsz',
+        appKey: 'hrn0gK9K1FvhiuvnchBHcRwz',
+        avatar: 'monsterid',
+        path: window.location.href,
+        placeholder: "欢迎回复评论 ...",
+      },
+      // 页脚
+      footer: {
+        copy: '<div class = "over">完结</div><br/><span id="sitetime"></span> <br> <span>Copyright &copy; 2020 - 至今</span>',
+        auth: ' <a href="https://cunyu1943.github.io/" target="_blank">🏷️ 村雨遥的博客</a>',
+        pre: '<hr/>',
+        style: 'text-align: center;',
+      },//添加页脚
+
+      // formatUpdated: function(time) {
+      //   // ...
+
+      //   return time;
+      // },
+      // 分页导航
+      pagination: {
+        previousText: 'Previous',
+        nextText: 'Next',
+        crossChapter: true
+      },
+      // 启用相对路径
+      relativePath: true,
+      coverpage: true,//封面,_coverpage.md
+      auto2top: true,//切换页面后是否自动跳转到页面顶部
+      //ga: 'UA-138586553-1',
+      //logo: 'https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-3logo-透明.png' ,
+      search: {
+        //maxAge: 86400000, // 过期时间，单位毫秒，默认一天
+        paths: 'auto',
+        placeholder: '🔎 Search',
+        noData: '😩 No Results',
+        // 搜索标题的最大程级, 1 - 6
+        depth: 3,
+      },
+      plugins: [
+        EditOnGithubPlugin.create('https://github.com/cunyu1943/amazing-websites/blob/master/')
+      ],
+
+    }
+  </script>
+
+  <!-- gitalk -->
+  <!-- <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
+  <script>
+    const gitalk = new Gitalk({
+      clientID: '1e42580404dc01454eaf',
+      clientSecret: '7c661bd80558cb64ce268140627ef8e578d76ff3',
+      repo: 'cunyu1943.github.io',
+      owner: 'cunyu1943',
+      admin: ['cunyu1943'],
+      id: location.pathname.substr(0, 50),
+      // facebook-like distraction free mode
+      distractionFreeMode: false
+    })
+  </script> -->
+
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <!-- 页脚 -->
+  <script src="//unpkg.com/docsify-footer-enh/dist/docsify-footer-enh.min.js"></script>
+  <!--代码高亮-->
+  <script src="//unpkg.com/prismjs/components/prism-java.min.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-bash.min.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-markdown.min.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-python.min.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-yaml.min.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-sql.min.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-git.min.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-css.min.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-c.min.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-cpp.min.js"></script>
+  <!--全文搜索,直接用官方提供的无法生效-->
+  <script src="https://cdn.bootcss.com/docsify/4.5.9/plugins/search.min.js"></script>
+  <!-- emoji -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
+  <!--推特表情-->
+  <script src="//cdn.jsdelivr.net/gh/TaQini/docsify-twemoji@master/twemoji.min.js"></script>
+  <!-- 字数统计 -->
+  <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
+  <!-- 复制到剪贴板 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-copy-code"></script>
+  <!--tab功能-->
+  <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
+  <!-- 图片缩放 -->
+  <script src="//unpkg.com/docsify/lib/plugins/zoom-image.js"></script>
+  <!-- 分页导航 -->
+  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  <!-- 公式 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-katex@latest/dist/docsify-katex.js"></script>
+  <!-- 访问量统计 -->
+  <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+  <!-- 复制提醒 -->
+  <script src="https://cdn.bootcss.com/sweetalert/1.1.3/sweetalert.min.js"></script>
+  <script>
+    document.body.oncopy = function () {
+      swal("复制成功 🎉",
+        "转载或引用请务必保留原文链接，并声明来源。如果你觉得本文章不错，那就去 GitHub 给个 Star 吧 😊",
+        "success");
+    };
+  </script>
+
+  <!-- 运行时间统计 -->
+  <script language=javascript>
+    function siteTime() {
+      window.setTimeout("siteTime()", 1000);
+      var seconds = 1000;
+      var minutes = seconds * 60;
+      var hours = minutes * 60;
+      var days = hours * 24;
+      var years = days * 365;
+      var today = new Date();
+      var todayYear = today.getFullYear();
+      var todayMonth = today.getMonth() + 1;
+      var todayDate = today.getDate();
+      var todayHour = today.getHours();
+      var todayMinute = today.getMinutes();
+      var todaySecond = today.getSeconds();
+      /* Date.UTC() -- 返回date对象距世界标准时间(UTC)1970年1月1日午夜之间的毫秒数(时间戳)
+      year - 作为date对象的年份，为4位年份值
+      month - 0-11之间的整数，做为date对象的月份
+      day - 1-31之间的整数，做为date对象的天数
+      hours - 0(午夜24点)-23之间的整数，做为date对象的小时数
+      minutes - 0-59之间的整数，做为date对象的分钟数
+      seconds - 0-59之间的整数，做为date对象的秒数
+      microseconds - 0-999之间的整数，做为date对象的毫秒数 */
+      var t1 = Date.UTC(2020, 01, 01, 00, 00, 00); //北京时间2020-02-10 00:00:00
+      var t2 = Date.UTC(todayYear, todayMonth, todayDate, todayHour, todayMinute, todaySecond);
+      var diff = t2 - t1;
+      var diffYears = Math.floor(diff / years);
+      var diffDays = Math.floor((diff / days) - diffYears * 365);
+      var diffHours = Math.floor((diff - (diffYears * 365 + diffDays) * days) / hours);
+      var diffMinutes = Math.floor((diff - (diffYears * 365 + diffDays) * days - diffHours * hours) / minutes);
+      var diffSeconds = Math.floor((diff - (diffYears * 365 + diffDays) * days - diffHours * hours - diffMinutes * minutes) / seconds);
+      document.getElementById("sitetime").innerHTML = " 本站已运行 " + diffYears + " 年 " + diffDays + " 天 " + diffHours + " 小时 " + diffMinutes + " 分钟 " + diffSeconds + " 秒 ";
+    }
+    siteTime();
+  </script>
+
+  <!-- 鼠标点击爱心 click -->
+  <script src="//cdn.jsdelivr.net/gh/jerryc127/butterfly_cdn@2.1.0/js/click_heart.js"></script>
+
+  <!-- Valine 评论 -->
+  <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+  <script src="//unpkg.com/docsify-valine/dist/docsify-valine.min.js"></script>
+  <!-- 分享 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/external-script.min.js"></script>
+
+
+</body>
+
+</html>
