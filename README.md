@@ -92,9 +92,3 @@
 
 1. [Docsify](https://docsify.js.org/#/)，网站搭建；
 2. [Typora](https://typora.io/)，所有文档均使用 Typora 编写；
-
----
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/social-share.js/1.0.16/css/share.min.css">
-
-<center><div class="social-share"></div></center>
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/social-share.js/1.0.16/js/social-share.min.js"></script>
