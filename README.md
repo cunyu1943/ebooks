@@ -201,11 +201,20 @@
 
 ### 数据结构与算法
 
-| 资源名 | 百度云链接 |
-| ------ | ---------- |
-|        | 链接       |
-|        | 链接       |
-|        | 链接       |
+| 资源名                                                     | 百度云链接                                              |
+| ---------------------------------------------------------- | ------------------------------------------------------- |
+| C语言经典算法大全                                          | [链接](https://pan.baidu.com/s/1mpDsIxQIIWfq4g6Zc1ymgg) |
+| 啊哈磊 - 啊哈！算法                                        | [链接](https://pan.baidu.com/s/1up2i-YDIPxx3g_gPgoCnPg) |
+| 布莱恩.克里斯汀 - 算法之美                                 | [链接](https://pan.baidu.com/s/1gr9HDprBvV0l6mvKTRpwyw) |
+| 程杰 - 最新大话数据结构                                    | [链接](https://pan.baidu.com/s/1Cgo95Q74WmIaZ_GoitkNdw) |
+| 莱维汀 - 算法设计与分析基础                                | [链接](https://pan.baidu.com/s/1vMLKL5LxDBSDcqtDniYOww) |
+| 刘汝佳 - 算法竞赛入门经典（第2版） (算法艺术与信息学竞赛)  | [链接](https://pan.baidu.com/s/1VzR8qyoQZIGHjl2IM02WoA) |
+| 托马斯 - 算法导论(原书第3版) 中文完整版                    | [链接](https://pan.baidu.com/s/1Aq170xLGGSIO5gfwygJu4w) |
+| 王晓华 - 算法的乐趣                                        | [链接](https://pan.baidu.com/s/1LSw3trcrWxI76XuVHgzXcQ) |
+| 魏梦舒 - 漫画算法：小灰的算法之旅                          | [链接](https://pan.baidu.com/s/1u-JBFTWnIr_esb5LVRtZng) |
+| 谢路云 - 算法(第4版)-文字版                                | [链接](https://pan.baidu.com/s/1RG1uVPhigWATyg9p2xlPoA) |
+| 袁国忠 - 算法图解                                          | [链接](https://pan.baidu.com/s/1je5axAfrM1xWEGz_bc8DIg) |
+| 左程云 - 程序员代码面试指南 IT名企算法与数据结构题目最优解 | [链接](https://pan.baidu.com/s/1aouwGat9VqaCvC5mY2U9iQ) |
 
 ### 数据库
 
