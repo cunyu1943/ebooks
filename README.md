@@ -160,48 +160,59 @@
 
 | 资源名 | 百度云链接 |
 | ------ | ---------- |
-|        |            |
-|        |            |
-|        |            |
+|        | 链接       |
+|        | 链接       |
+|        | 链接       |
 
 ### 大数据与云计算
 
 | 资源名 | 百度云链接 |
 | ------ | ---------- |
-|        |            |
-|        |            |
-|        |            |
+|        | 链接       |
+|        | 链接       |
+|        | 链接       |
 
 ### 前端
 
-| 资源名 | 百度云链接 |
-| ------ | ---------- |
-|        |            |
-|        |            |
-|        |            |
+| 资源名                              | 百度云链接                                              |
+| ----------------------------------- | ------------------------------------------------------- |
+| CSS权威指南（第3版）                | [链接](https://pan.baidu.com/s/1_NnHg9QxfjAsbO2914pUdg) |
+| Head First HTML与CSS、XHTML(中文版) | [链接](https://pan.baidu.com/s/1-fmpmNrLDmfly_A0d06huQ) |
+| HTML5基础知识、核心技术与前沿案例   | [链接](https://pan.baidu.com/s/1LQN3AgbKaqaf50bZHJUMHA) |
+| HTML5移动应用开发入门经典           | [链接](https://pan.baidu.com/s/1kAS7dmahHtgRgxe97ymjjg) |
+| JavaScript权威指南(第6版)(中文版)   | [链接](https://pan.baidu.com/s/1omFZQ49qbgU1nEDw31T71Q) |
+| 锋利的jQuery                        | [链接](https://pan.baidu.com/s/1YKTyOGNJ3Pe-ujT5jFuVbg) |
+| 高效前端：Web高效编程与优化实践     | [链接](https://pan.baidu.com/s/1Cq7uMiQ12-DldFu1AfVU-A) |
+| 莱西格 - JavaScript忍者秘籍 第2版   | [链接](https://pan.baidu.com/s/135xBSWUvyHnP1ESzeR8L0Q) |
+| 前端面试指南                        | [链接](https://pan.baidu.com/s/1z5zR3YrJpgOWkT2Ff6x1gg) |
 
 ### 人工智能
 
 | 资源名 | 百度云链接 |
 | ------ | ---------- |
-|        |            |
-|        |            |
-|        |            |
+|        | 链接       |
+|        | 链接       |
+|        | 链接       |
 
 ### 数据结构与算法
 
 | 资源名 | 百度云链接 |
 | ------ | ---------- |
-|        |            |
-|        |            |
-|        |            |
+|        | 链接       |
+|        | 链接       |
+|        | 链接       |
 
 ### 数据库
 
-| 资源名 | 百度云链接 |
-| ------ | ---------- |
-|        |            |
-|        |            |
-|        |            |
+| 资源名                                | 百度云链接                                              |
+| ------------------------------------- | ------------------------------------------------------- |
+| Baron - 高性能 MySQL 第三版           | [链接](https://pan.baidu.com/s/1faFk_U1wlJMU478dTZm3FA) |
+| MySQL性能调优与架构设计+PDF中文版全册 | [链接](https://pan.baidu.com/s/1VWJZs9Wb64bzX3YQguuBVA) |
+| Tapio - 数据库索引设计与优化          | [链接](https://pan.baidu.com/s/1YH4Ey9oPb6AKVaRjxWVc-w) |
+| 姜承尧 - MySQL技术内幕：SQL编程       | [链接](https://pan.baidu.com/s/1sNnljHz4rFEo6wHqCn__6A) |
+| 孔祥盛 - MySQL核心技术与最佳实践      | [链接](https://pan.baidu.com/s/1FzrnOktsZZIV5DfUre3l2Q) |
+| 刘晓霞（译）- MySQL必知必会           | [链接](https://pan.baidu.com/s/18deKkZXuChLhEVLyghlm5A) |
+| 王强 - sql cookbook                   | [链接](https://pan.baidu.com/s/1LVyKYFKFNnaAUR7CHX7HsQ) |
+| 张权 - SQL查询的艺术                  | [链接](https://pan.baidu.com/s/1MmCIB1owZd1yl1ioi0WRuA) |
 
 >   持续更新中 ……
