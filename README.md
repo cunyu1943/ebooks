@@ -158,11 +158,22 @@
 
 ### 程序员必读
 
-| 资源名 | 百度云链接 |
-| ------ | ---------- |
-|        | 链接       |
-|        | 链接       |
-|        | 链接       |
+| 资源名                                                       | 百度云链接                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------- |
+| 保罗.格拉汉姆 - 黑客与画家(中文版)                           | [链接](https://pan.baidu.com/s/1_QPF7JpQ0epG0HeMi0EjDw) |
+| 编程之美——微软技术面试心得(完整版pdf)                        | [链接](https://pan.baidu.com/s/1gTelhgwykh6pJ_FZAJeqZg) |
+| 大卫·古尔力 - HTTP权威指南                                   | [链接](https://pan.baidu.com/s/15FqY1d9JxvcczjBeylug5Q) |
+| 亨特.托马斯 - 程序员修炼之道：从小工到专家                   | [链接](https://pan.baidu.com/s/1AGRlhSObOVMN5AbXZmbNkQ) |
+| 黄倩（译） - 编程珠玑  第2版(修订版)                         | [链接](https://pan.baidu.com/s/1VmHyIgYXtLX0VC9NdILslQ) |
+| 兰德尔 - 程序设计与计算机系统_深入理解计算机系统（中文版第二版） | [链接](https://pan.baidu.com/s/1v519Pc7mv0StOmf9lCnPeg) |
+| 马丁- 代码整洁之道                                           | [链接](https://pan.baidu.com/s/1UwlYGDdbXYHnTAkiR1pgXQ) |
+| 马丁.福勒 - 重构-改善既有代码的设计                          | [链接](https://pan.baidu.com/s/1Inzj5VWITYpwY7aiR-PAqA) |
+| 佩措尔德 - 编码：隐匿在计算机软硬件背后的语言                | [链接](https://pan.baidu.com/s/1-KtXxww9c4vjqYGuMbkXLw) |
+| 上野宣 - 图解HTTP                                            | [链接](https://pan.baidu.com/s/1FSmM2wbRLTVkkbcq2qbuag) |
+| 斯蒂文.麦克康纳 - 代码大全2                                  | [链接](https://pan.baidu.com/s/14gfT-oGhuHDXgUwRfepkSA) |
+| 王元杰 - 一本书读懂TCPIP                                     | [链接](https://pan.baidu.com/s/16slsdt7gWNlrAlqYNLHByg) |
+| 西尾泰和 - 代码之髓 编程语言核心概念                         | [链接](https://pan.baidu.com/s/1Y5G_MJ-JugSDzVEBLJneDQ) |
+| 俞甲子 - 程序员的自我修养--链接、装载与库                    | [链接](https://pan.baidu.com/s/1n50JAU83zs6mnHRn5by9Fw) |
 
 ### 大数据与云计算
 
@@ -193,11 +204,25 @@
 
 ### 人工智能
 
-| 资源名 | 百度云链接 |
-| ------ | ---------- |
-|        | 链接       |
-|        | 链接       |
-|        | 链接       |
+| 资源名                                                       | 百度云链接                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------- |
+| AI算法工程师手册                                             | [链接](https://pan.baidu.com/s/1SoM6hUX5-cV65-OvnxcGIg) |
+| Aston Zhang - 动手学深度学习                                 | [链接](https://pan.baidu.com/s/1LtmhOkKuyhP-vybfKc0VHQ) |
+| Susan Li - Develop a NLP Model in Python & Deploy It with Flask, Step by Step | [链接](https://pan.baidu.com/s/1zbg2oURFh47zoKdtxdNuNA) |
+| 陈仲铭 - 深度学习原理与实践                                  | [链接](https://pan.baidu.com/s/1dRW4Sk5PPR9FzjBhZ94oJA) |
+| 丹尼尔 - 自然语言处理综述（英文第三版）                      | [链接](https://pan.baidu.com/s/1JOpyd51kjcJQOdWKgQId-A) |
+| 机器学习最优化课程笔记                                       | [链接](https://pan.baidu.com/s/1CDRmAt9AnFYkPqEd5IF5Pg) |
+| 克里斯托弗·d·曼宁 - 统计自然语言处理基础                     | [链接](https://pan.baidu.com/s/1k9tj03oXpbXTteJyYyh2NA) |
+| 克里斯托弗·d·曼宁 - 信息检索导论                             | [链接](https://pan.baidu.com/s/1E0K-O0FK1nh_g3njN4z11Q) |
+| 邱锡鹏- 神经网络与深度学习                                   | [链接](https://pan.baidu.com/s/1QkMnQ5UthkCtt7qwk7s0lA) |
+| 塔里克.拉希德 - Python神经网络编程高清版                     | [链接](https://pan.baidu.com/s/1vdUCDTBn3hKQxCwA4BzsSg) |
+| 王晓华 - TensorFlow深度学习应用实践                          | [链接](https://pan.baidu.com/s/10W1xdLc4VKBHKQHijvepBA) |
+| 伊恩.古德菲洛 - 深度学习                                     | [链接](https://pan.baidu.com/s/1ly3Ry2gvyNZAwfinQ4QIzw) |
+| 斋藤康益 - 深度学习入门：基于Python的理论与实现              | [链接](https://pan.baidu.com/s/1uhhEfsTmOyV1g-tWjAtSTg) |
+| 张玉宏 - 深度学习之美：AI时代的数据处理与最佳实践            | [链接](https://pan.baidu.com/s/1DbJmDrIIF2fvpmU1SZxIsA) |
+| 赵春江- 机器学习经典算法剖析：基于OpenCV                     | [链接](https://pan.baidu.com/s/1BxRPnhSHhRfV3e3Umwwmpg) |
+| 周志华- 机器学习                                             | [链接](https://pan.baidu.com/s/1aYuVjSME1mY7nsRcGjts-Q) |
+| 闫涛 - 深度学习算法实践（基于Theano和TensorFlow）            | [链接](https://pan.baidu.com/s/1TiO1J6iWNkzhlYKqxHdrdw) |
 
 ### 数据结构与算法
 
