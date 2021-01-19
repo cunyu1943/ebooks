@@ -105,27 +105,56 @@
 
 ### Linux
 
-| 资源名 | 百度云链接 |
-| ------ | ---------- |
-|        |            |
-|        |            |
-|        |            |
+| 资源名                                        | 百度云链接                                              |
+| --------------------------------------------- | ------------------------------------------------------- |
+| 菲利普 - Linux性能优化                        | [链接](https://pan.baidu.com/s/1MqBLoRqwB9VJMdo0luBj-Q) |
+| 理查德 - Linux命令行与shell脚本编程大全.第3版 | [链接](https://pan.baidu.com/s/1ZykqLjrt-eej3iKufbSrGA) |
+| 刘遄 - Linux就该这么学                        | [链接](https://pan.baidu.com/s/13__M8hMsD85NJN7OLcQw5g) |
+| 孟宁 - 疱丁解牛Linux内核分析                  | [链接](https://pan.baidu.com/s/1Up9DiWDmVX_CDLTzbFbpDA) |
+| 尼尔.马修斯 - Linux程序设计(第4版)            | [链接](https://pan.baidu.com/s/1ZFNb2Llgfe3Lt5-1Xg5hsQ) |
+| 鸟哥- 鸟哥的私房菜：基础学习篇（第 4 版）     | [链接](https://pan.baidu.com/s/1iOtT1B5NmnXxCn6jDH4ljw) |
 
 ### Python
 
-| 资源名 | 百度云链接 |
-| ------ | ---------- |
-|        |            |
-|        |            |
-|        |            |
+| 资源名                                                 | 百度云链接                                              |
+| ------------------------------------------------------ | ------------------------------------------------------- |
+| 理查德.劳森 - 用Python写网络爬虫                       | [链接](https://pan.baidu.com/s/1EO0Ok240JJvhGReSOtNOtQ) |
+| Mahesh - Python极客项目编程_(美)                       | [链接](https://pan.baidu.com/s/1PMSROFqDB60q4B3Xw79LEQ) |
+| Python标准库中文版                                     | [链接](https://pan.baidu.com/s/1tFuDfl1ZlNg8lEQQVeqfmg) |
+| 埃里克.马修斯 - Python编程：从入门到实践及源码         | [链接](https://pan.baidu.com/s/1kBKwiXRyXjL9pnl8J7T_1w) |
+| 安道（译） - FlaskWeb开发：基于Python的Web应用开发实战 | [链接](https://pan.baidu.com/s/1vHfXTRZUphGe_s0d8UcnJA) |
+| 笨办法学 Python                                        | [链接](https://pan.baidu.com/s/1WWnPah00Txoko36YuCzRWg) |
+| 布雷特 - Effective Python                              | [链接](https://pan.baidu.com/s/1RtWriUiOpYBEQyoEJmwIwA) |
+| 大卫.贝兹利 - Python参考手册(第4版)                    | [链接](https://pan.baidu.com/s/1l-J8Xm4FzYumnEszmAFV4w) |
+| 董付国 - Python可以这样学                              | [链接](https://pan.baidu.com/s/1WKbLKwgrGsN8IXrM4YtPVA) |
+| 胡世杰 - Python高性能编程                              | [链接](https://pan.baidu.com/s/1SS7atN82cVNwfZ3eMVSH8Q) |
+| 李金洪 - Python带我起飞：入门、进阶、商业实战          | [链接](https://pan.baidu.com/s/189CUEw6Sl3MlcM70LIXJhw) |
+| 马克.鲁兹 - Python学习手册 第4版                       | [链接](https://pan.baidu.com/s/1FB3aEcfdW7Y2TtW0NBMyog) |
+| 齐伟 - 跟老齐学Python：数据分析                        | [链接](https://pan.baidu.com/s/1xFqJv_5jdlxn8Xvtl7QowA) |
+| 齐伟 - 跟老齐学Python从入门到精通                      | [链接](https://pan.baidu.com/s/16iYVYXErTiYdN-38hRB3KQ) |
+| 斯维加特 - Python游戏编程快速上手                      | [链接](https://pan.baidu.com/s/1SAxY9Ly7F_zdCP4xNNvvbA) |
+| 王海鹏（译） - Python编程快速上手-让繁琐工作自动化     | [链接](https://pan.baidu.com/s/1v9CjsDwm2huu6GnWMzq61A) |
+| 韦斯利 - Python核心编程 第二版                         | [链接](https://pan.baidu.com/s/1d3WcuLKh_eUUOyolEkFwoQ) |
+| 熊能 - Python Cookbook第三版中文                       | [链接](https://pan.baidu.com/s/1kP8qTwHFQUaV_N9Wl-FzhA) |
+| 詹姆斯.佩恩 - Python编程入门经典                       | [链接](https://pan.baidu.com/s/1jMTTkgyq-mCKcUqt0BvFyw) |
+| 张颖 - 编写高质量代码：改善Python程序的91个建议迷你书  | [链接](https://pan.baidu.com/s/1TWAhYkOBC_kxT7oJ1odwtA) |
 
 ### 办公
 
-| 资源名 | 百度云链接 |
-| ------ | ---------- |
-|        |            |
-|        |            |
-|        |            |
+| 资源名                                           | 百度云链接                                              |
+| ------------------------------------------------ | ------------------------------------------------------- |
+| 大道至简  Excel这么学最简单                      | [链接](https://pan.baidu.com/s/1xxFNSRU_WSD5F6vLmwXOxg) |
+| 郭新房 - Visio 2013图形设计从新手到高手          | [链接](https://pan.baidu.com/s/14mnC5ekCOnDVUg1GXAnXew) |
+| 李栋 - PPT高手之路                               | [链接](https://pan.baidu.com/s/1Nx1_UQYCcwycehKChKApcw) |
+| 李金蓉 - Photoshop CC高手成长之路                | [链接](https://pan.baidu.com/s/1g0_dpzuDK-5wxDKlMoLjaA) |
+| 零一 - Excel BI之道：从零开始学Power工具应用     | [链接](https://pan.baidu.com/s/1ywN8BuN1WplqIEgWgWYEug) |
+| 毛宇航 - Flash CC动画制作实战从入门到精通        | [链接](https://pan.baidu.com/s/1j8_zPZ2N7MsLnd8uSzlBGQ) |
+| 秋叶 - 和秋叶一起学  PPT又快又好打造说服力幻灯片 | [链接](https://pan.baidu.com/s/16ojlaE-fsWsVMk87XZDdzA) |
+| 秋叶 - 和秋叶一起学Excel                         | [链接](https://pan.baidu.com/s/1t4DvgUkrORMosTdi0um56g) |
+| 秋叶 - 和秋叶一起学WORD（第2版）                 | [链接](https://pan.baidu.com/s/1jKAIaL8hjWYa0VT_39hvRg) |
+| 先锋影像 - Photoshop摄影后期必备99招             | [链接](https://pan.baidu.com/s/1LZx028otUn0QIsK-UlOngw) |
+| 叶霞 - 财务信息处理与分析：Excel 2016            | [链接](https://pan.baidu.com/s/1J2wip5Do1bQyhOHV-b1PNw) |
+| 易学易用系列  新编EXCEL 2016从入门到精通         | [链接](https://pan.baidu.com/s/1F6LFnpEjIZim1dxqtxRH-g) |
 
 ### 程序员必读
 
