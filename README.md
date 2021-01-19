@@ -166,11 +166,16 @@
 
 ### 大数据与云计算
 
-| 资源名 | 百度云链接 |
-| ------ | ---------- |
-|        | 链接       |
-|        | 链接       |
-|        | 链接       |
+| 资源名                                                      | 百度云链接                                              |
+| ----------------------------------------------------------- | ------------------------------------------------------- |
+| 耿嘉安 - 深入理解Spark+核心思想与源码分析                   | [链接](https://pan.baidu.com/s/1EyhMlmZpoJItO4mRn_NJ5Q) |
+| 胡夕 - Apache_kafka实战                                     | [链接](https://pan.baidu.com/s/1_NVCa9Rsr9d3es4u-yYZmA) |
+| 拉斐尔 - 深入理解ElasticSearch                              | [链接](https://pan.baidu.com/s/1FkbZOPeyzGxH9BMPAJha6g) |
+| 魏祖宽 - 基于Hadoop的大数据分析和处理                       | [链接](https://pan.baidu.com/s/1hd7Or4ttuEEum4thQU4DoQ) |
+| 肖冠宇 - 企业大数据处理：Spark、Druid、Flume与Kafka应用实践 | [链接](https://pan.baidu.com/s/1PXFEP_2l9wa_Bu6FoW3nGQ) |
+| 杨宝华 - DOCKER技术入门与实战                               | [链接](https://pan.baidu.com/s/1ujIfB6QE3hlkh4Bv7atUVA) |
+| 杨传辉 - 大规模分布式存储系统：原理解析与架构实战           | [链接](https://pan.baidu.com/s/1-BfnB2VmiIigqyrlyv3qRQ) |
+| 朱凯 - 企业级大数据平台构建：架构与实现                     | [链接](https://pan.baidu.com/s/1zeCLGtkuoQIBGYoCm8h5XA) |
 
 ### 前端
 
