@@ -19,7 +19,7 @@
 
 于是针对以上两点，我把我所搜集到的电子书都整理归档，放到这个项目下，一来方便更多人获取到相关资源，另一方面也方便大家自行下载，不用再去各处费精力的找。
 
-下面文档中我都给出了PDF 的下载链接，关于提取码，为了防止滥用导致资源失效，所以需要 **关注公众号【村雨遥】，后台回复提取码** 即可。
+下面文档中我都给出了PDF 的下载链接，关于提取码，为了防止滥用导致资源失效，所以需要 **关注公众号【村雨遥】，后台回复【提取码】** 即可。
 
 当然，我更希望大家能够加入到我的交流群里边，大家不仅可以一起资源共享，还能够一起聊聊其他。
 
@@ -47,20 +47,61 @@
 
 ### C & C++
 
-| 资源名                  | 百度云链接                                              |
-| ----------------------- | ------------------------------------------------------- |
-| Google C++ 编程风格指南 | [链接](https://pan.baidu.com/s/16HRKc6NduKfz9c4qL6kywQ) |
-| 啊哈磊 - 啊哈c语言      | [链接](https://pan.baidu.com/s/1y1Es0r3gNw_pCqF_cTd7oA) |
-|                         |                                                         |
-
+| 资源名                                                 | 百度云链接                                              |
+| ------------------------------------------------------ | ------------------------------------------------------- |
+| Google C++ 编程风格指南                                | [链接](https://pan.baidu.com/s/1j7LwlKleI4ANzPT3Acz4sQ) |
+| 啊哈磊 - 啊哈c语言                                     | [链接](https://pan.baidu.com/s/18WhNl1JG5X1zPQ7gDzez2A) |
+| 安德鲁 - C陷阱与缺陷(C和C++经典著作)                   | [链接](https://pan.baidu.com/s/1oUKDXCffFIk85lXGwxL59Q) |
+| 保罗·戴特尔  - C++大学教程(第九版)                     | [链接](https://pan.baidu.com/s/1ez31hZQkMDPSpyf3KtoFiA) |
+| 布拉德利 - 21天学通C语言（第六版）                     | [链接](https://pan.baidu.com/s/1ulItKIGvop_VP-SV8ZU-zg) |
+| 柴田望洋 - 明解C语言                                   | [链接](https://pan.baidu.com/s/1TKFxEG0hEu47jonhW-Z2kQ) |
+| 大卫.格里芬 - Head.First.C(2012)                       | [链接](https://pan.baidu.com/s/1FPPscfeM1JxMM5tIEU56nw) |
+| 邓俊辉 - 数据结构(C++语言版)第三版                     | [链接](https://pan.baidu.com/s/1DAsprZWBRBfj49rpwLhLUw) |
+| 霍尔顿 - c语言入门经典(第5版)                          | [链接](https://pan.baidu.com/s/1sUorflPfGA-ogWyVXRXorA) |
+| 马克.艾伦 - 数据结构与算法分析：C语言描述_原书第2版    | [链接](https://pan.baidu.com/s/1NN0XhOtKMIFrMnfqblCVfQ) |
+| 斯蒂芬 - C Primer Plus(第五版)中文版                   | [链接](https://pan.baidu.com/s/1U43u078GINOpvVx3bGggmg) |
+| 斯蒂芬 - C++ Primer Plus中文版第五版                   | [链接](https://pan.baidu.com/s/1A_1Ft8oGsTPYI-jIJidMXQ) |
+| 斯蒂芬 - C++.Primer.Plus 中文第 6 版                   | [链接](https://pan.baidu.com/s/1quDSqxRZhQ_H11VXNq_xhQ) |
+| 斯蒂芬.沙梅特- 你必须知道的495个C语言问题              | [链接](https://pan.baidu.com/s/1zzQz8IucgI92pj02tewwTA) |
+| 斯科特 - C++高级编程(第2版)                            | [链接](https://pan.baidu.com/s/1Zlzvl7duCqDz7AQ-CtaLGw) |
+| 斯科特 - Effective C 中文版(第3版)                     | [链接](https://pan.baidu.com/s/19s__nKWfyEwuY70CDHZNDw) |
+| 王娣 - C语言从入门到精通                               | [链接](https://pan.baidu.com/s/1DrIsuiwGyJt4HW7P3jJaYg) |
+| 张小潘 - C语言编程：一本全面的C语言入门教程  （第3版） | [链接](https://pan.baidu.com/s/1lzXfA8DypLvY52s8LTjfmg) |
+| 郑赟 - Hello C语言                                     | [链接](https://pan.baidu.com/s/1L8Hg8f_vDlM8AkIw4OJoag) |
 
 ### Java
 
-| 资源名 | 百度云链接 |
-| ------ | ---------- |
-|        |            |
-|        |            |
-|        |            |
+| 资源名                                                   | 百度云链接 |
+| -------------------------------------------------------- | ---------- |
+| Head First Java(第2版)中文版                             | 链接       |
+| Java 8 简明教程                                          | 链接       |
+| java常见面试题指南                                       | 链接       |
+| Java面试手册（百家企业总汇）                             | 链接       |
+| Spring5中文参考指南                                      | 链接       |
+| Spring Boot2 教程                                        | 链接       |
+| SpringBoot 从入门到进阶系列官方小册                      | 链接       |
+| SpringMVC面试专题及答案                                  | 链接       |
+| 阿里巴巴Java开发手册「泰山版」                           | 链接       |
+| 丁雪丰 (译) - Spring Boot实战                            | 链接       |
+| 多线程、JVM复习及面试100题                               | 链接       |
+| 方志朋 - 深入理解Spring Cloud与微服务构建                | 链接       |
+| 葛一鸣 - 实战Java高并发程序设计（第2版）                 | 链接       |
+| 龚鹏 - 微服务分布式构架开发实战                          | 链接       |
+| 韩楷 - JAVA并发编程实战                                  | 链接       |
+| 杭建 - Java工程师修炼之道                                | 链接       |
+| 霍陆续 - Java并发编程之美                                | 链接       |
+| 霍斯特曼 - Java核心技术 卷2 高级特性 第10版              | 链接       |
+| 霍斯特曼 - Java核心技术 卷1 基础知识 第10版              | 链接       |
+| 克雷格 - Spring实战（第4版）                             | 链接       |
+| 刘增辉 - MyBatis从入门到精通                             | 链接       |
+| 罗刚 - 网络爬虫全解析  技术、原理与实践                  | 链接       |
+| 马克.艾伦 - 数据结构与算法分析 java语言描述（原书第3版） | 链接       |
+| 深入浅出Java多线程                                       | 链接       |
+| 许进 - 重新定义Spring Cloud实战                          | 链接       |
+| 俞黎敏 - Effective Java中文版（原书第3版）               | 链接       |
+| 张俊达 - react快速上手开发                               | 链接       |
+| 周志明 - 深入理解Java虚拟机（第2版）                     | 链接       |
+| 周志明 - 深入理解Java虚拟机（第3版）                     | 链接       |
 
 ### Linux
 
