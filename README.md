@@ -79,29 +79,29 @@
 | Java面试手册（百家企业总汇）                             | [链接](https://pan.baidu.com/s/1ACaUrP2FoyugFKqLUwIpCA) |
 | Spring5中文参考指南                                      | [链接](https://pan.baidu.com/s/1ThgtZOrjEdxucu7dQL0MtQ) |
 | Spring Boot2 教程                                        | [链接](https://pan.baidu.com/s/181N2b3-ovP1n5WsYNiFEDA) |
-| SpringBoot 从入门到进阶系列官方小册                      | 链接                                                    |
-| SpringMVC面试专题及答案                                  | 链接                                                    |
-| 阿里巴巴Java开发手册「泰山版」                           | 链接                                                    |
-| 丁雪丰 (译) - Spring Boot实战                            | 链接                                                    |
-| 多线程、JVM复习及面试100题                               | 链接                                                    |
-| 方志朋 - 深入理解Spring Cloud与微服务构建                | 链接                                                    |
-| 葛一鸣 - 实战Java高并发程序设计（第2版）                 | 链接                                                    |
-| 龚鹏 - 微服务分布式构架开发实战                          | 链接                                                    |
-| 韩楷 - JAVA并发编程实战                                  | 链接                                                    |
-| 杭建 - Java工程师修炼之道                                | 链接                                                    |
-| 霍陆续 - Java并发编程之美                                | 链接                                                    |
-| 霍斯特曼 - Java核心技术 卷2 高级特性 第10版              | 链接                                                    |
-| 霍斯特曼 - Java核心技术 卷1 基础知识 第10版              | 链接                                                    |
-| 克雷格 - Spring实战（第4版）                             | 链接                                                    |
-| 刘增辉 - MyBatis从入门到精通                             | 链接                                                    |
-| 罗刚 - 网络爬虫全解析  技术、原理与实践                  | 链接                                                    |
-| 马克.艾伦 - 数据结构与算法分析 java语言描述（原书第3版） | 链接                                                    |
-| 深入浅出Java多线程                                       | 链接                                                    |
-| 许进 - 重新定义Spring Cloud实战                          | 链接                                                    |
-| 俞黎敏 - Effective Java中文版（原书第3版）               | 链接                                                    |
-| 张俊达 - react快速上手开发                               | 链接                                                    |
-| 周志明 - 深入理解Java虚拟机（第2版）                     | 链接                                                    |
-| 周志明 - 深入理解Java虚拟机（第3版）                     | 链接                                                    |
+| SpringBoot 从入门到进阶系列官方小册                      | [链接](https://pan.baidu.com/s/1YI5eCrTn596nlM3sjNL4ZA) |
+| SpringMVC面试专题及答案                                  | [链接](https://pan.baidu.com/s/18hE1IqpCtke4yuBKWlCpRg) |
+| 阿里巴巴Java开发手册「泰山版」                           | [链接](https://pan.baidu.com/s/1U7az5H6RlOcUmBdp_ZMSaA) |
+| 丁雪丰 (译) - Spring Boot实战                            | [链接](https://pan.baidu.com/s/1KWDBRaPCs7e49F8koP4qiQ) |
+| 多线程、JVM复习及面试100题                               | [链接](https://pan.baidu.com/s/1-978P2BfW50OeeNB0Gxgjg) |
+| 方志朋 - 深入理解Spring Cloud与微服务构建                | [链接](https://pan.baidu.com/s/1Y7pM6TmXbs3N9wC4dkfYkg) |
+| 葛一鸣 - 实战Java高并发程序设计（第2版）                 | [链接](https://pan.baidu.com/s/1ooXcUiTZJrDUaZo6LIMtIA) |
+| 龚鹏 - 微服务分布式构架开发实战                          | [链接](https://pan.baidu.com/s/1nHtNPnokeERbu-JxGbnRoA) |
+| 韩楷 - JAVA并发编程实战                                  | [链接](https://pan.baidu.com/s/1SB--6Pz5bWjUBqlj7qR79A) |
+| 杭建 - Java工程师修炼之道                                | [链接](https://pan.baidu.com/s/1KdERwtDYS7PnmcASsi5i-Q) |
+| 霍陆续 - Java并发编程之美                                | [链接](https://pan.baidu.com/s/10bGuc1nXJMVxulrbu80zkA) |
+| 霍斯特曼 - Java核心技术 卷2 高级特性 第10版              | [链接](https://pan.baidu.com/s/11e3zjnS-y2WCIb8h39jfYg) |
+| 霍斯特曼 - Java核心技术 卷1 基础知识 第10版              | [链接](https://pan.baidu.com/s/1NpPs80povWwDG-eLegbPbA) |
+| 克雷格 - Spring实战（第4版）                             | [链接](https://pan.baidu.com/s/1hiF4R9yaZz2p-CiySqC5dw) |
+| 刘增辉 - MyBatis从入门到精通                             | [链接](https://pan.baidu.com/s/1gZhC3W6Pl3d3Ru62Yqfc1Q) |
+| 罗刚 - 网络爬虫全解析  技术、原理与实践                  | [链接](https://pan.baidu.com/s/12Q9NXIC1kIn_yfWt8Im8ew) |
+| 马克.艾伦 - 数据结构与算法分析 java语言描述（原书第3版） | [链接](https://pan.baidu.com/s/1qKWVIOhxb1rqH1y9DOFDbw) |
+| 深入浅出Java多线程                                       | [链接](https://pan.baidu.com/s/14qmdD9hiyasZJkHva9Po0A) |
+| 许进 - 重新定义Spring Cloud实战                          | [链接](https://pan.baidu.com/s/1HqeNWZ8gcdjzPwyhQPpFaQ) |
+| 俞黎敏 - Effective Java中文版（原书第3版）               | [链接](https://pan.baidu.com/s/1tRAHzrL9OlvOmmvihNukeg) |
+| 张俊达 - react快速上手开发                               | [链接](https://pan.baidu.com/s/14vVAscGMDJ-YCG1bqqGYyQ) |
+| 周志明 - 深入理解Java虚拟机（第2版）                     | [链接](https://pan.baidu.com/s/1_DD3l7LtJ0BJZAv7V4DoPw) |
+| 周志明 - 深入理解Java虚拟机（第3版）                     | [链接](https://pan.baidu.com/s/1cOeIOB5XxIz4ZAcQmm-iag) |
 
 ### Linux
 
