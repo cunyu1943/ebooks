@@ -187,6 +187,7 @@
 | 杨宝华 - DOCKER技术入门与实战                               | [链接](https://pan.baidu.com/s/1ujIfB6QE3hlkh4Bv7atUVA) |
 | 杨传辉 - 大规模分布式存储系统：原理解析与架构实战           | [链接](https://pan.baidu.com/s/1-BfnB2VmiIigqyrlyv3qRQ) |
 | 朱凯 - 企业级大数据平台构建：架构与实现                     | [链接](https://pan.baidu.com/s/1zeCLGtkuoQIBGYoCm8h5XA) |
+｜华为存储支持OpenStack技术白皮书 ｜ [链接](https://pan.baidu.com/s/137wmmG9aWKM3R2B3ucnX3Q) ｜nsu8｜
 
 ### 前端
 
