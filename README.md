@@ -1,8 +1,18 @@
+
+
 # 📚 amazing-books
 
 ![GitHub forks](https://img.shields.io/github/forks/cunyu1943/amazing-books?color=G&label=Fork) ![GitHub stars](https://img.shields.io/github/stars/cunyu1943/amazing-books?color=G&label=Stars)
 
-## ⚠ 免责声明
+>   持续更新中 ……
+
+我的其他仓库：
+
+| CS-Docs                                                      | amazing-websites                                             | amazing-softwares                                            |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [![cs-docs](https://github-readme-stats.vercel.app/api/pin/?username=cunyu1943&repo=cs-docs&theme=dark)](https://github.com/cunyu1943/cs-docs) | [![amazing-websites](https://github-readme-stats.vercel.app/api/pin/?username=cunyu1943&repo=amazing-websites&theme=dark)](https://github.com/cunyu1943/amazing-websites) | [![amazing-softwares](https://github-readme-stats.vercel.app/api/pin/?username=cunyu1943&repo=amazing-softwares&theme=dark)](https://github.com/cunyu1943/amazing-softwares) |
+
+## 🧨 免责声明
 
 >   声明，所有资源均来源于网络其他人的整理，这里只是收集整理用途，个人更推荐实体店、网络商城等途径购买正版。
 >
@@ -187,7 +197,6 @@
 | 杨宝华 - DOCKER技术入门与实战                               | [链接](https://pan.baidu.com/s/1ujIfB6QE3hlkh4Bv7atUVA) |
 | 杨传辉 - 大规模分布式存储系统：原理解析与架构实战           | [链接](https://pan.baidu.com/s/1-BfnB2VmiIigqyrlyv3qRQ) |
 | 朱凯 - 企业级大数据平台构建：架构与实现                     | [链接](https://pan.baidu.com/s/1zeCLGtkuoQIBGYoCm8h5XA) |
-｜华为存储支持OpenStack技术白皮书 ｜ [链接](https://pan.baidu.com/s/137wmmG9aWKM3R2B3ucnX3Q) ｜nsu8｜
 
 ### 前端
 
@@ -255,4 +264,3 @@
 | 王强 - sql cookbook                   | [链接](https://pan.baidu.com/s/1LVyKYFKFNnaAUR7CHX7HsQ) |
 | 张权 - SQL查询的艺术                  | [链接](https://pan.baidu.com/s/1MmCIB1owZd1yl1ioi0WRuA) |
 
->   持续更新中 ……
