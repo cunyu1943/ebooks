@@ -235,8 +235,6 @@
 | 闫涛 - 深度学习算法实践（基于Theano和TensorFlow）            | [链接](https://pan.baidu.com/s/1TiO1J6iWNkzhlYKqxHdrdw) |
 | 深度学习 500 问                                              | [链接](https://pan.baidu.com/s/1UfYIIOwlk_UgLS7mNit_vw) |
 
-
-
 ### 数据结构与算法
 
 | 资源名                                                     | 百度云链接                                              |
@@ -253,6 +251,7 @@
 | 谢路云 - 算法(第4版)-文字版                                | [链接](https://pan.baidu.com/s/1RG1uVPhigWATyg9p2xlPoA) |
 | 袁国忠 - 算法图解                                          | [链接](https://pan.baidu.com/s/1je5axAfrM1xWEGz_bc8DIg) |
 | 左程云 - 程序员代码面试指南 IT名企算法与数据结构题目最优解 | [链接](https://pan.baidu.com/s/1aouwGat9VqaCvC5mY2U9iQ) |
+| LeetCode Cookbook                                          | [链接](https://pan.baidu.com/s/1CVtTXb9eX1WdsPY9BiM1HA) |
 
 ### 数据库
 
