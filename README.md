@@ -1,12 +1,10 @@
-
-
 # 📚 amazing-books
 
 ![GitHub forks](https://img.shields.io/github/forks/cunyu1943/amazing-books?color=G&label=Fork) ![GitHub stars](https://img.shields.io/github/stars/cunyu1943/amazing-books?color=G&label=Stars)
 
->   持续更新中 ……
+>   🎈 持续更新中 ……
 
-我的其他仓库：
+我的其他项目，欢迎 **Star** 收藏：
 
 | CS-Docs                                                      | amazing-websites                                             | amazing-softwares                                            |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -184,6 +182,8 @@
 | 王元杰 - 一本书读懂TCPIP                                     | [链接](https://pan.baidu.com/s/16slsdt7gWNlrAlqYNLHByg) |
 | 西尾泰和 - 代码之髓 编程语言核心概念                         | [链接](https://pan.baidu.com/s/1Y5G_MJ-JugSDzVEBLJneDQ) |
 | 俞甲子 - 程序员的自我修养--链接、装载与库                    | [链接](https://pan.baidu.com/s/1n50JAU83zs6mnHRn5by9Fw) |
+| Pro Git                                                      | [链接](https://pan.baidu.com/s/1xst_SBKb2HOL9coX1Ro4_A) |
+| GitHub 入门与实践                                            | [链接](https://pan.baidu.com/s/1fDi8HKildvGBbCsyzeDwDQ) |
 
 ### 大数据与云计算
 
@@ -233,6 +233,9 @@
 | 赵春江- 机器学习经典算法剖析：基于OpenCV                     | [链接](https://pan.baidu.com/s/1BxRPnhSHhRfV3e3Umwwmpg) |
 | 周志华- 机器学习                                             | [链接](https://pan.baidu.com/s/1aYuVjSME1mY7nsRcGjts-Q) |
 | 闫涛 - 深度学习算法实践（基于Theano和TensorFlow）            | [链接](https://pan.baidu.com/s/1TiO1J6iWNkzhlYKqxHdrdw) |
+| 深度学习 500 问                                              | [链接](https://pan.baidu.com/s/1UfYIIOwlk_UgLS7mNit_vw) |
+
+
 
 ### 数据结构与算法
 
