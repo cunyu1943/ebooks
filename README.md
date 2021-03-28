@@ -265,4 +265,3 @@
 | 刘晓霞（译）- MySQL必知必会           | [链接](https://pan.baidu.com/s/18deKkZXuChLhEVLyghlm5A) |
 | 王强 - sql cookbook                   | [链接](https://pan.baidu.com/s/1LVyKYFKFNnaAUR7CHX7HsQ) |
 | 张权 - SQL查询的艺术                  | [链接](https://pan.baidu.com/s/1MmCIB1owZd1yl1ioi0WRuA) |
-
