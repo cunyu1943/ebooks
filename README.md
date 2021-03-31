@@ -234,6 +234,7 @@
 | 周志华- 机器学习                                             | [链接](https://pan.baidu.com/s/1aYuVjSME1mY7nsRcGjts-Q) |
 | 闫涛 - 深度学习算法实践（基于Theano和TensorFlow）            | [链接](https://pan.baidu.com/s/1TiO1J6iWNkzhlYKqxHdrdw) |
 | 深度学习 500 问                                              | [链接](https://pan.baidu.com/s/1UfYIIOwlk_UgLS7mNit_vw) |
+| 刘知远 - 知识图谱与深度学习 - 清华大学出版社-                | [链接](https://pan.baidu.com/s/1OtWw9NeP0I98eGvH1tRmzQ) |
 
 ### 数据结构与算法
 
