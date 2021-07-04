@@ -1,59 +1,67 @@
-# 📚 amazing-books
+# 🎉 ebooks
 
-![GitHub forks](https://img.shields.io/github/forks/cunyu1943/amazing-books?color=G&label=Fork) ![GitHub stars](https://img.shields.io/github/stars/cunyu1943/amazing-books?color=G&label=Stars)
+📖 优质编程书籍搜集（Programming Books Collections）
 
->   🎈 持续更新中 ……
 
-我的其他项目，欢迎 **Star** 收藏：
+| ![GitHub watchers](https://img.shields.io/github/watchers/cunyu1943/ebooks?color=blueviolet&style=for-the-badge) | ![GitHub forks](https://img.shields.io/github/forks/cunyu1943/ebooks?color=orange&style=for-the-badge) | ![GitHub Repo stars](https://img.shields.io/github/stars/cunyu1943/ebooks?color=success&style=for-the-badge) | ![GitHub](https://img.shields.io/github/license/cunyu1943/ebooks?style=for-the-badge) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
-| CS-Docs                                                      | amazing-websites                                             | amazing-softwares                                            |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![cs-docs](https://github-readme-stats.vercel.app/api/pin/?username=cunyu1943&repo=cs-docs&theme=dark)](https://github.com/cunyu1943/cs-docs) | [![amazing-websites](https://github-readme-stats.vercel.app/api/pin/?username=cunyu1943&repo=amazing-websites&theme=dark)](https://github.com/cunyu1943/amazing-websites) | [![amazing-softwares](https://github-readme-stats.vercel.app/api/pin/?username=cunyu1943&repo=amazing-softwares&theme=dark)](https://github.com/cunyu1943/amazing-softwares) |
+# 免责声明
 
-## 🧨 免责声明
-
->   声明，所有资源均来源于网络其他人的整理，这里只是收集整理用途，个人更推荐实体店、网络商城等途径购买正版。
+> 声明，所有资源均来源于网络其他人的整理，这里只是收集整理用途，个人更推荐实体店、网络商城等途径购买正版。
 >
->   只用作交流学习用途，请勿用作商业用途传播并在下载资源后 24 小时内删除。若侵犯您的个人权益，请联系小编立即删除相关资源，在此不胜感激！
+> 只用作交流学习用途，请勿用作商业用途传播并在下载资源后 24 小时内删除。若侵犯您的个人权益，请联系小编立即删除相关资源，在此不胜感激！
 >
->   邮箱：[747731461@qq.com](mailto:747731461@qq.com)
+> 邮箱：[747731461@qq.com](mailto:747731461@qq.com)
 
-## :open_book: 前言
 
-大家多多少少关注我的公众号的原因之一是因为想获取电子书，我觉得最根本原因主要有如下两点：
 
-1.  纸质书相对来说也比较贵，而且相对来说携带不方便；
-2.  其实网上都有资源，大家只是获取的渠道比较单一，通过我这边的话比较方便；
+# 说明
 
-于是针对以上两点，我把我所搜集到的电子书都整理归档，放到这个项目下，一来方便更多人获取到相关资源，另一方面也方便大家自行下载，不用再去各处费精力的找。
 
-下面文档中我都给出了PDF 的下载链接，关于提取码，为了防止滥用导致资源失效，所以需要 **关注公众号【村雨遥】，后台回复【提取码】** 即可。
+如果遇到链接失效或有其他问题，建议提交 Issue 或者邮件：[747731461@qq.com](mailto:747731461@qq.com)
+
+也欢迎大家积极参与到项目中，一起推荐更多的资源，帮助更多的小伙伴！
+
+这里推荐一个优秀的公众号 **【村雨遥】**，号主主要从事 Java 后端开发，里边有 Java 学习、工具分享、Linux、Python 等，还有号主的一些成长经历。欢迎大家关注，让我们一起成长、学习！
+
+<img src="./img/公众号.png" width="30%"> </img>
+
+  
+
+
+
+# 导航
+
+-   [提取码](#提取码)
+-   [资源分类](#资源分类)
+    -   [C&C++](#C-&-C++)
+    -   [Go](#Go)
+    -   [Java](#Java)
+    -   [Linux](#Linux)
+    -   [Python](#Python)
+    -   [办公](#办公)
+    -   [程序员必读](#程序员必读)
+    -   [大数据与云计算](#大数据与云计算)
+    -   [前端](#前端)
+    -   [人工智能](#人工智能)
+    -   [数据结构与算法](#数据结构与算法)
+    -   [数据库](#数据库)
+-   [作者](#Authors)
+
+# 提取码
+
+以下文档中我给出了 PDF 的下载链接，关于提取码，为了防止滥用导致资源失效，所以需要关注下面公众号 **【村雨遥】**，后台回复 **【提取码】** 即可。
 
 当然，我更希望大家能够加入到我的交流群里边，大家不仅可以一起资源共享，还能够一起聊聊其他。
 
-**加群方式**：关注公众号 **村雨遥**，回复 **加群** 即可。
+**加群方式**：关注公众号 **【村雨遥】**，回复 **【加群】** 即可。
 
-<img src="https://gitee.com/cunyu1943/images/raw/master/ImgsUbuntu/20200510234310.png" style="zoom:67%;" />
+<img src="./img/公众号.png" width="30%"> </img>
 
-## 🚩 简介
+# 资源分类
 
--   项目说明：推荐程序员阅读的书籍
--   书籍来源：网络收集
--   书籍格式：电子书 PDF
--   项目地址
-
-| 平台       | 地址                                       |
-| ---------- | ------------------------------------------ |
-| **Github** | https://github.com/cunyu1943/amazing-books |
-| **Gitee**  | https://gitee.com/cunyu1943/amazing-books  |
-
-## 📂 电子书思维导图
-
-📍[电子书在线思维导图](http://v3.processon.com/view/link/60050ba0e401fd261bc7c03b)
-
-## 📇 电子书类别及下载链接
-
-### C & C++
+## C & C++
 
 | 资源名                                                 | 百度云链接                                              |
 | ------------------------------------------------------ | ------------------------------------------------------- |
@@ -77,7 +85,19 @@
 | 张小潘 - C语言编程：一本全面的C语言入门教程  （第3版） | [链接](https://pan.baidu.com/s/1lzXfA8DypLvY52s8LTjfmg) |
 | 郑赟 - Hello C语言                                     | [链接](https://pan.baidu.com/s/1L8Hg8f_vDlM8AkIw4OJoag) |
 
-### Java
+## Go
+
+| 资源名                        | 百度云链接                                              |
+| ----------------------------- | ------------------------------------------------------- |
+| William Kennedy - Go 语言实战 | [链接](https://pan.baidu.com/s/1kqVzEzClI01v8oS1Ud_uLg) |
+| 雨痕 - Go 语言学习笔记        | [链接](https://pan.baidu.com/s/1sx5XA9KhX0B0CZWJDu-Xiw) |
+| 柴树杉 - Go语言高级编程       | [链接](https://pan.baidu.com/s/1WGvwym6j4fam2tr7YkyA0A) |
+| 李文塔 - Go语言核心编程       | [链接](https://pan.baidu.com/s/1TPX8scOpVaesE_x70gAkNQ) |
+| Go 语言 101                   | [链接](https://pan.baidu.com/s/1YfRNK0hW4nalWzsGVG3pkQ) |
+
+
+
+## Java
 
 | 资源名                                                   | 百度云链接                                              |
 | -------------------------------------------------------- | ------------------------------------------------------- |
@@ -95,7 +115,7 @@
 | 方志朋 - 深入理解Spring Cloud与微服务构建                | [链接](https://pan.baidu.com/s/1Y7pM6TmXbs3N9wC4dkfYkg) |
 | 葛一鸣 - 实战Java高并发程序设计（第2版）                 | [链接](https://pan.baidu.com/s/1ooXcUiTZJrDUaZo6LIMtIA) |
 | 龚鹏 - 微服务分布式构架开发实战                          | [链接](https://pan.baidu.com/s/1nHtNPnokeERbu-JxGbnRoA) |
-| 韩楷 - JAVA并发编程实战                                  | [链接](https://pan.baidu.com/s/1SB--6Pz5bWjUBqlj7qR79A) |
+| 韩楷 - JAVA 并发编程实战                                 | [链接](https://pan.baidu.com/s/1SB--6Pz5bWjUBqlj7qR79A) |
 | 杭建 - Java工程师修炼之道                                | [链接](https://pan.baidu.com/s/1KdERwtDYS7PnmcASsi5i-Q) |
 | 霍陆续 - Java并发编程之美                                | [链接](https://pan.baidu.com/s/10bGuc1nXJMVxulrbu80zkA) |
 | 霍斯特曼 - Java核心技术 卷2 高级特性 第10版              | [链接](https://pan.baidu.com/s/11e3zjnS-y2WCIb8h39jfYg) |
@@ -105,13 +125,14 @@
 | 罗刚 - 网络爬虫全解析  技术、原理与实践                  | [链接](https://pan.baidu.com/s/12Q9NXIC1kIn_yfWt8Im8ew) |
 | 马克.艾伦 - 数据结构与算法分析 java语言描述（原书第3版） | [链接](https://pan.baidu.com/s/1qKWVIOhxb1rqH1y9DOFDbw) |
 | 深入浅出Java多线程                                       | [链接](https://pan.baidu.com/s/14qmdD9hiyasZJkHva9Po0A) |
+| 小傅哥 - 重学 Java 设计模式                              | [链接](https://pan.baidu.com/s/1UDjCB2v-IHZCfgwOeSKNRQ) |
 | 许进 - 重新定义Spring Cloud实战                          | [链接](https://pan.baidu.com/s/1HqeNWZ8gcdjzPwyhQPpFaQ) |
 | 俞黎敏 - Effective Java中文版（原书第3版）               | [链接](https://pan.baidu.com/s/1tRAHzrL9OlvOmmvihNukeg) |
-| 张俊达 - react快速上手开发                               | [链接](https://pan.baidu.com/s/14vVAscGMDJ-YCG1bqqGYyQ) |
+| 张俊达 - React 快速上手开发                              | [链接](https://pan.baidu.com/s/14vVAscGMDJ-YCG1bqqGYyQ) |
 | 周志明 - 深入理解Java虚拟机（第2版）                     | [链接](https://pan.baidu.com/s/1_DD3l7LtJ0BJZAv7V4DoPw) |
 | 周志明 - 深入理解Java虚拟机（第3版）                     | [链接](https://pan.baidu.com/s/1cOeIOB5XxIz4ZAcQmm-iag) |
 
-### Linux
+## Linux
 
 | 资源名                                        | 百度云链接                                              |
 | --------------------------------------------- | ------------------------------------------------------- |
@@ -122,7 +143,7 @@
 | 尼尔.马修斯 - Linux程序设计(第4版)            | [链接](https://pan.baidu.com/s/1ZFNb2Llgfe3Lt5-1Xg5hsQ) |
 | 鸟哥- 鸟哥的私房菜：基础学习篇（第 4 版）     | [链接](https://pan.baidu.com/s/1iOtT1B5NmnXxCn6jDH4ljw) |
 
-### Python
+## Python
 
 | 资源名                                                 | 百度云链接                                              |
 | ------------------------------------------------------ | ------------------------------------------------------- |
@@ -147,7 +168,7 @@
 | 詹姆斯.佩恩 - Python编程入门经典                       | [链接](https://pan.baidu.com/s/1jMTTkgyq-mCKcUqt0BvFyw) |
 | 张颖 - 编写高质量代码：改善Python程序的91个建议迷你书  | [链接](https://pan.baidu.com/s/1TWAhYkOBC_kxT7oJ1odwtA) |
 
-### 办公
+## 办公
 
 | 资源名                                           | 百度云链接                                              |
 | ------------------------------------------------ | ------------------------------------------------------- |
@@ -164,7 +185,7 @@
 | 叶霞 - 财务信息处理与分析：Excel 2016            | [链接](https://pan.baidu.com/s/1J2wip5Do1bQyhOHV-b1PNw) |
 | 易学易用系列  新编EXCEL 2016从入门到精通         | [链接](https://pan.baidu.com/s/1F6LFnpEjIZim1dxqtxRH-g) |
 
-### 程序员必读
+## 程序员必读
 
 | 资源名                                                       | 百度云链接                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------- |
@@ -185,7 +206,7 @@
 | Pro Git                                                      | [链接](https://pan.baidu.com/s/1xst_SBKb2HOL9coX1Ro4_A) |
 | GitHub 入门与实践                                            | [链接](https://pan.baidu.com/s/1fDi8HKildvGBbCsyzeDwDQ) |
 
-### 大数据与云计算
+## 大数据与云计算
 
 | 资源名                                                      | 百度云链接                                              |
 | ----------------------------------------------------------- | ------------------------------------------------------- |
@@ -198,7 +219,7 @@
 | 杨传辉 - 大规模分布式存储系统：原理解析与架构实战           | [链接](https://pan.baidu.com/s/1-BfnB2VmiIigqyrlyv3qRQ) |
 | 朱凯 - 企业级大数据平台构建：架构与实现                     | [链接](https://pan.baidu.com/s/1zeCLGtkuoQIBGYoCm8h5XA) |
 
-### 前端
+## 前端
 
 | 资源名                              | 百度云链接                                              |
 | ----------------------------------- | ------------------------------------------------------- |
@@ -212,7 +233,7 @@
 | 莱西格 - JavaScript忍者秘籍 第2版   | [链接](https://pan.baidu.com/s/135xBSWUvyHnP1ESzeR8L0Q) |
 | 前端面试指南                        | [链接](https://pan.baidu.com/s/1z5zR3YrJpgOWkT2Ff6x1gg) |
 
-### 人工智能
+## 人工智能
 
 | 资源名                                                       | 百度云链接                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------- |
@@ -236,7 +257,7 @@
 | 深度学习 500 问                                              | [链接](https://pan.baidu.com/s/1UfYIIOwlk_UgLS7mNit_vw) |
 | 刘知远 - 知识图谱与深度学习 - 清华大学出版社-                | [链接](https://pan.baidu.com/s/1OtWw9NeP0I98eGvH1tRmzQ) |
 
-### 数据结构与算法
+## 数据结构与算法
 
 | 资源名                                                     | 百度云链接                                              |
 | ---------------------------------------------------------- | ------------------------------------------------------- |
@@ -254,7 +275,7 @@
 | 左程云 - 程序员代码面试指南 IT名企算法与数据结构题目最优解 | [链接](https://pan.baidu.com/s/1aouwGat9VqaCvC5mY2U9iQ) |
 | LeetCode Cookbook                                          | [链接](https://pan.baidu.com/s/1CVtTXb9eX1WdsPY9BiM1HA) |
 
-### 数据库
+## 数据库
 
 | 资源名                                | 百度云链接                                              |
 | ------------------------------------- | ------------------------------------------------------- |
@@ -266,3 +287,11 @@
 | 刘晓霞（译）- MySQL必知必会           | [链接](https://pan.baidu.com/s/18deKkZXuChLhEVLyghlm5A) |
 | 王强 - sql cookbook                   | [链接](https://pan.baidu.com/s/1LVyKYFKFNnaAUR7CHX7HsQ) |
 | 张权 - SQL查询的艺术                  | [链接](https://pan.baidu.com/s/1MmCIB1owZd1yl1ioi0WRuA) |
+
+
+# Authors
+
+- [@cunyu1943](https://www.github.com/cunyu1943)
+
+    
+
