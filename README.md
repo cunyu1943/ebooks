@@ -125,14 +125,12 @@
 
 ## Linux
 
-| 资源名                                        | 百度云链接                                              |
-| --------------------------------------------- | ------------------------------------------------------- |
-| 菲利普 - Linux性能优化                        | [链接](https://pan.baidu.com/s/1MqBLoRqwB9VJMdo0luBj-Q) |
-| 理查德 - Linux命令行与shell脚本编程大全.第3版 | [链接](https://pan.baidu.com/s/1ZykqLjrt-eej3iKufbSrGA) |
-| 刘遄 - Linux就该这么学                        | [链接](https://pan.baidu.com/s/13__M8hMsD85NJN7OLcQw5g) |
-| 孟宁 - 疱丁解牛Linux内核分析                  | [链接](https://pan.baidu.com/s/1Up9DiWDmVX_CDLTzbFbpDA) |
-| 尼尔.马修斯 - Linux程序设计(第4版)            | [链接](https://pan.baidu.com/s/1ZFNb2Llgfe3Lt5-1Xg5hsQ) |
-| 鸟哥- 鸟哥的私房菜：基础学习篇（第 4 版）     | [链接](https://pan.baidu.com/s/1iOtT1B5NmnXxCn6jDH4ljw) |
+- 《菲利普 - Linux性能优化》：[百度云链接](https://pan.baidu.com/s/10q3xfZLb2SkchnDbSPj__A) 提取码：q3fo
+- 《理查德 - Linux命令行与shell脚本编程大全.第3版》：[百度云链接](https://pan.baidu.com/s/1xLboeUaCtbiyU7dMQI-5Zw) 提取码：urig
+- 《刘遄 - Linux就该这么学》：[百度云链接](https://pan.baidu.com/s/1k5kMowR9ooyfjubeFUIXrw) 提取码：n4or
+- 《孟宁 - 疱丁解牛Linux内核分析》：[百度云链接](https://pan.baidu.com/s/1lmVesO6wHFhBjWUmW3Ey3g) 提取码：og7v
+- 《尼尔.马修斯 - Linux程序设计(第4版)》：[百度云链接](https://pan.baidu.com/s/1d-CoJwQMSKm2cXKfgieD3w) 提取码：apks
+- 《鸟哥- 鸟哥的私房菜：基础学习篇（第 4 版）》：[百度云链接](https://pan.baidu.com/s/1RkZKx6sUXOtmhylbi49C2g) 提取码：9pbs
 
 ## Python
 
