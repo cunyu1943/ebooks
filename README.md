@@ -184,27 +184,27 @@
 
 ## 大数据与云计算
 
-1.   《耿嘉安 - 深入理解Spark+核心思想与源码分析》：
-2.   《胡夕 - Apache_kafka实战》：
-3.   《拉斐尔 - 深入理解ElasticSearch》：
-4.   《魏祖宽 - 基于Hadoop的大数据分析和处理》：
-5.   《肖冠宇 - 企业大数据处理：Spark、Druid、Flume与Kafka应用实践》：
-6.   《杨宝华 - DOCKER技术入门与实战》：
-7.   《杨传辉 - 大规模分布式存储系统：原理解析与架构实战》：
-8.   《朱凯 - 企业级大数据平台构建：架构与实现》：
+1.   《耿嘉安 - 深入理解Spark+核心思想与源码分析》：[百度云链接](https://pan.baidu.com/s/1FfZuNUcldiYQs5MSfreZtw) 提取码：1tdn
+2.   《胡夕 - Apache_kafka实战》：[百度云链接](https://pan.baidu.com/s/1cAs5e43XFmwcYV-_6wx11g) 提取码：7r32
+3.   《拉斐尔 - 深入理解ElasticSearch》：[百度云链接](https://pan.baidu.com/s/1zsk-h6jwy7jS-Hdj_kAsrQ) 提取码：6oev
+4.   《魏祖宽 - 基于Hadoop的大数据分析和处理》：[百度云链接](https://pan.baidu.com/s/1iAhQmwLXq8QSePb8XVcpxg) 提取码：9mfh
+5.   《肖冠宇 - 企业大数据处理：Spark、Druid、Flume与Kafka应用实践》：[百度云链接](https://pan.baidu.com/s/12lU5dV6ww2lMvHZdRfv0yw) 提取码：5ytc
+6.   《杨宝华 - DOCKER技术入门与实战》：[百度云链接](https://pan.baidu.com/s/1It9G6S8VosyOvq2Vd0f6NQ) 提取码：586v
+7.   《杨传辉 - 大规模分布式存储系统：原理解析与架构实战》：[百度云链接](https://pan.baidu.com/s/1DnYxvhWLMKLdwOhJTEHR4A) 提取码：39cl
+8.   《朱凯 - 企业级大数据平台构建：架构与实现》：[百度云链接](https://pan.baidu.com/s/1p3_JcuqNZTGHoxA-LvOHcw) 提取码：o3e6
 
 ## 前端
 
-1.   《CSS权威指南（第3版）》：
-2.   《Head First HTML与CSS、XHTML(中文版)》：
-3.   《HTML5基础知识、核心技术与前沿案例》：
-4.   《HTML5移动应用开发入门经典》：
-5.   《JavaScript权威指南(第6版)(中文版)》：
-6.   《锋利的jQuery》：
-7.   《高效前端：Web高效编程与优化实践》：
-8.   《莱西格 - JavaScript忍者秘籍 第2版》：
-9.   《前端面试指南》：
-10.   《张俊达 - react快速上手开发》：
+1.   《CSS权威指南（第3版）》：[百度云链接](https://pan.baidu.com/s/1uLm0IEEiNvQtQpv1sIhaYg) 提取码：a2fm
+2.   《Head First HTML与CSS、XHTML(中文版)》：[百度云链接](https://pan.baidu.com/s/1DoA_CQY0VKGYfsFTSqmpfA) 提取码：4g0z
+3.   《HTML5基础知识、核心技术与前沿案例》：[百度云链接](https://pan.baidu.com/s/1sb3osCNBzmruel7owfy_3A) 提取码：xw2f
+4.   《HTML5移动应用开发入门经典》：[百度云链接](https://pan.baidu.com/s/1z33BS3ZESzpU8ZnYXz_gZQ) 提取码：2ax6
+5.   《JavaScript权威指南(第6版)(中文版)》：[百度云链接](https://pan.baidu.com/s/1NTLMTk8KhEFK2w0id2TA-Q) 提取码：rt0c
+6.   《锋利的jQuery》：[百度云链接](https://pan.baidu.com/s/1z6-g1cjc8wmgp1oSuCPoCQ) 提取码：bwob
+7.   《高效前端：Web高效编程与优化实践》：[百度云链接](https://pan.baidu.com/s/1z2uKG0BM8UvXvoZzTbREOw) 提取码：8axx
+8.   《莱西格 - JavaScript忍者秘籍 第2版》：[百度云链接](https://pan.baidu.com/s/1RnD6xP9zgHHz5vHDMorhnw) 提取码：yi58
+9.   《前端面试指南》：[百度云链接](https://pan.baidu.com/s/1-7GZ6VZVpX5ZqjytJAKntw) 提取码：am7v
+10.   《张俊达 - react快速上手开发》：[百度云链接](https://pan.baidu.com/s/1Y6Jyrv2YWlR66r4cZnNjWQ) 提取码：uohj
 
 ## 人工智能
 
@@ -241,33 +241,33 @@
 
 ## 数据结构与算法
 
-1.   《C语言经典算法大全》：
+1.   《C语言经典算法大全》：[百度云链接](https://pan.baidu.com/s/1dSWczPBnB4QHJAwGW8Layg) 提取码：79rq
 
-2.   《啊哈磊 - 啊哈！算法》：
-3.   《布莱恩.克里斯汀 - 算法之美》：
-4.   《程杰 - 最新大话数据结构》：
-5.   《邓俊辉 - 数据结构(C++语言版)第三版》：
-6.   《莱维汀 - 算法设计与分析基础》：
-7.   《刘汝佳 - 算法竞赛入门经典（第2版） (算法艺术与信息学竞赛)》：
-8.   《马克.艾伦 - 数据结构与算法分析：C语言描述_原书第2版》：
-9.   《马克.艾伦 - 数据结构与算法分析 java语言描述（原书第3版）》：
-10.   《托马斯 - 算法导论(原书第3版) 中文完整版》：
-11.   《王晓华 - 算法的乐趣》：
-12.   《魏梦舒 - 漫画算法：小灰的算法之旅》：
-13.   《谢路云 - 算法(第4版)-文字版》：
-14.   《袁国忠 - 算法图解》：
-15.   《左程云 - 程序员代码面试指南 IT名企算法与数据结构题目最优解》：
+2.   《啊哈磊 - 啊哈！算法》：[百度云链接](https://pan.baidu.com/s/1lD3imHFf1uou26TXv3UaVQ) 提取码：t9gu
+3.   《布莱恩.克里斯汀 - 算法之美》：[百度云链接](https://pan.baidu.com/s/1JwINC-zhgNJRV66-n3McHQ) 提取码：d0i5
+4.   《程杰 - 最新大话数据结构》：[百度云链接](https://pan.baidu.com/s/1csFl9qOV84xYG5iMpq8X0w) 提取码：0u9i
+5.   《邓俊辉 - 数据结构(C++语言版)第三版》：[百度云链接](https://pan.baidu.com/s/1R29BlHnPdXNvWrxi3ppumQ) 提取码：9mzv
+6.   《莱维汀 - 算法设计与分析基础》：[百度云链接](https://pan.baidu.com/s/1XkqzD34jPCbqUrUHPqN_5w) 提取码：1qie
+7.   《刘汝佳 - 算法竞赛入门经典（第2版） (算法艺术与信息学竞赛)》：[百度云链接](https://pan.baidu.com/s/1Q4vpi3EXHKdEwYXBRSnBQA) 提取码：2dzp
+8.   《马克.艾伦 - 数据结构与算法分析：C语言描述_原书第2版》：[百度云链接](https://pan.baidu.com/s/1T-UKD2SlZ3njqxQLSNe1FA) 提取码：j7ac
+9.   《马克.艾伦 - 数据结构与算法分析 java语言描述（原书第3版）》：[百度云链接](https://pan.baidu.com/s/1Bj9Fchc9rpqEdSF4CtjPlA) 提取码：wudn
+10.   《托马斯 - 算法导论(原书第3版) 中文完整版》：[百度云链接](https://pan.baidu.com/s/1uLtvJvBIhPcQGxc7ovpUIw) 提取码：8jzq
+11.   《王晓华 - 算法的乐趣》：[百度云链接](https://pan.baidu.com/s/1qfUZRhn7-_UP7fsTzpq-QQ) 提取码：f1zy
+12.   《魏梦舒 - 漫画算法：小灰的算法之旅》：[百度云链接](https://pan.baidu.com/s/1BM0NP5rwlSqB131WkBUwpg) 提取码：5frw
+13.   《谢路云 - 算法(第4版)-文字版》：[百度云链接](https://pan.baidu.com/s/1voBIqYxTCWskswBhTyjXRw) 提取码：w334
+14.   《袁国忠 - 算法图解》：[百度云链接](https://pan.baidu.com/s/1IhDC9fzx0PXh3bQp3yWlaw) 提取码：va1d
+15.   《左程云 - 程序员代码面试指南 IT名企算法与数据结构题目最优解》：[百度云链接](https://pan.baidu.com/s/1BRujcTthkmhiBEigq0ZO4g) 提取码：3pyv
 
 ## 数据库
 
-1.   《Baron - 高性能 MySQL 第三版》：
-2.   《MySQL性能调优与架构设计+PDF中文版全册》：
-3.   《Tapio - 数据库索引设计与优化》：
-4.   《姜承尧 - MySQL技术内幕：SQL编程》：
-5.   《孔祥盛 - MySQL核心技术与最佳实践》：
-6.   《刘晓霞（译）- MySQL必知必会》：
-7.   《王强 - sql cookbook》：
-8.   《张权 - SQL查询的艺术》：
+1.   《Baron - 高性能 MySQL 第三版》：[百度云链接](https://pan.baidu.com/s/1oClRwVF0ZuklooNOKmoSFA) 提取码：zz63
+2.   《MySQL性能调优与架构设计+PDF中文版全册》：[百度云链接](https://pan.baidu.com/s/1Xwd35Qn3z-GLjMmZu_nqEQ) 提取码：t9wu
+3.   《Tapio - 数据库索引设计与优化》：[百度云链接](https://pan.baidu.com/s/1snAf_IoNJMLoUwiGlhS59A) 提取码：c1dk
+4.   《姜承尧 - MySQL技术内幕：SQL编程》：[百度云链接](https://pan.baidu.com/s/1VZVUkBWu-z1d_t-hQDjVcw) 提取码：iq0f
+5.   《孔祥盛 - MySQL核心技术与最佳实践》：[百度云链接](https://pan.baidu.com/s/1hfJC5wvVXY3464AsFsFMnw) 提取码：sb1s
+6.   《刘晓霞（译）- MySQL必知必会》：[百度云链接](https://pan.baidu.com/s/117G7FCxwOdhedlQW5x7SAA) 提取码：el0a
+7.   《王强 - sql cookbook》：[百度云链接](https://pan.baidu.com/s/1COqzWIKPHrxzoXSoTTAb_Q) 提取码：na7w
+8.   《张权 - SQL查询的艺术》：[百度云链接](https://pan.baidu.com/s/1ArchZrgpSecpGOIpTxWTyg) 提取码：8he9
 
 ## Authors
 
