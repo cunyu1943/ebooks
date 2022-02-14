@@ -269,6 +269,19 @@
 7.   《王强 - sql cookbook》：[百度云链接](https://pan.baidu.com/s/1COqzWIKPHrxzoXSoTTAb_Q) 提取码：na7w
 8.   《张权 - SQL查询的艺术》：[百度云链接](https://pan.baidu.com/s/1ArchZrgpSecpGOIpTxWTyg) 提取码：8he9
 
+## 个人提升
+
+1.   《被讨厌的勇气》：[百度云链接](https://pan.baidu.com/s/1RbDlqeNRoLcWdkKzrMVuIA) 提取码：8oyb
+2.   《产品经理必懂的技术那点事儿》：[百度云链接](https://pan.baidu.com/s/1T7m0nTYVjAsul91TsM55-g) 提取码：svnp
+3.   《大脑修复术》：[百度云链接](https://pan.baidu.com/s/1qqeNbg_Zc-ThAnRV6EdKXw) 提取码：dr0s
+4.   《动机心理学》：[百度云链接](https://pan.baidu.com/s/122ab-bXqAwP3Doe9tzB-MQ) 提取码：9ciq
+5.   《读懂一本书：樊登读书法樊登》：[百度云链接](https://pan.baidu.com/s/1wum_6P3uRGsLTWlX3Cu7Gg) 提取码：uiwk
+6.   《富爸爸穷爸爸》：[百度云链接](https://pan.baidu.com/s/1ZdhNtAN261X0kanF06Jc1g) 提取码：otvi
+7.   《改变未来的九大算法》：[百度云链接](https://pan.baidu.com/s/1JBrrorAHT7WWZrP7exvp6g) 提取码：h8gr
+8.   《硅谷简史：通往人工智能之路》：[百度云链接](https://pan.baidu.com/s/1laxduPPr3laXfHuCBLublQ) 提取码：ynh4
+9.   《硅谷精英的创业秘籍》：[百度云链接](https://pan.baidu.com/s/11KxbRKEI1v0D30b0QtQ_Zw) 提取码：pcob
+10.   《机器人简史》：[百度云链接](https://pan.baidu.com/s/1vunmrUlYI2SYUdrt9b8Ouw) 提取码：471r
+
 ## Authors
 
 - [@cunyu1943](https://www.github.com/cunyu1943)
