@@ -84,33 +84,33 @@
 
 ## Java
 
--   《Head First Java(第2版)中文版》：
--   《Java 8 简明教程》：
--   《java常见面试题指南》：
--   《Java面试手册（百家企业总汇）》：
--   《Spring Boot2 教程》：
--   《Spring5中文参考指南》：
--   《SpringBoot 从入门到进阶系列官方小册》：
--   《SpringMVC面试专题及答案》：
--   《阿里巴巴Java开发手册「泰山版」》：
--   《丁雪丰 (译) - Spring Boot实战 》：
--   《多线程、JVM复习及面试100题》：
--   《方志朋 - 深入理解Spring Cloud与微服务构建》：
--   《葛一鸣 - 实战Java高并发程序设计（第2版）》：
--   《龚鹏 - 微服务分布式构架开发实战》：
--   《韩楷 - JAVA并发编程实战》：
--   《杭建 - Java工程师修炼之道》：
--   《霍陆续 - Java并发编程之美》：
--   《霍斯特曼 - Java核心技术 卷1 基础知识 第10版》：
--   《霍斯特曼 - Java核心技术 卷2 高级特性 第10版》：
--   《克雷格 - Spring实战（第4版）》：
--   《刘增辉 - MyBatis从入门到精通》：
--   《罗刚 - 网络爬虫全解析  技术、原理与实践》：
--   《深入浅出Java多线程》：
--   《许进 - 重新定义Spring Cloud实战》：
--   《俞黎敏 - Effective Java中文版（原书第3版）》：
--   《周志明 - 深入理解Java虚拟机（第2版）》：
--   《周志明 - 深入理解Java虚拟机（第3版）》：
+-   《Head First Java(第2版)中文版》：[百度云链接](https://pan.baidu.com/s/1aT9VqbUgX8ozhWO9ygiMvA) 提取码：vtqj
+-   《Java 8 简明教程》：[百度云链接](https://pan.baidu.com/s/1RnDg8N-DwBcFdXiP4P0MsQ) 提取码：8eq0
+-   《java常见面试题指南》：[百度云链接](https://pan.baidu.com/s/1oaP-4jO-XtmVzpRgimKxUQ) 提取码：p2do
+-   《Java面试手册（百家企业总汇）》：[百度云链接](https://pan.baidu.com/s/1OoNOvJ9HbGpyr5zKNLTnjg) 提取码：15lv
+-   《Spring Boot2 教程》：[百度云链接](https://pan.baidu.com/s/1KMOQAl5sxrJ1rxLjrZlCFQ) 提取码：2hh4
+-   《Spring5中文参考指南》：[百度云链接](https://pan.baidu.com/s/1q5UKAjAbmUdPns9RdDJVsg) 提取码：ykc3
+-   《SpringBoot 从入门到进阶系列官方小册》：[百度云链接](https://pan.baidu.com/s/1JfiRW_7GHvoRasWfIHWw9g) 提取码：4ayr
+-   《SpringMVC面试专题及答案》：[百度云链接](https://pan.baidu.com/s/1wSQ2qMwXxuIGC_kF6Jq8Qg) 提取码：qlh8
+-   《阿里巴巴Java开发手册「泰山版」》：[百度云链接](https://pan.baidu.com/s/11c0Mhh9vmpdDjai3vHeMZw) 提取码：4jip
+-   《丁雪丰 (译) - Spring Boot实战 》：[百度云链接](https://pan.baidu.com/s/1L1VLBxA6BZuJEShvYrRfQg) 提取码：1ty5
+-   《多线程、JVM复习及面试100题》：[百度云链接](https://pan.baidu.com/s/136sJR5TYKvAESN6zQrLMXg) 提取码：hknv
+-   《方志朋 - 深入理解Spring Cloud与微服务构建》：[百度云链接](https://pan.baidu.com/s/1GGz1b9KQK0lzldvGv61tQA) 提取码：8wwy
+-   《葛一鸣 - 实战Java高并发程序设计（第2版）》：[百度云链接](https://pan.baidu.com/s/1yasWsBq_7xCuuvWeVc1jBA) 提取码：4v6j
+-   《龚鹏 - 微服务分布式构架开发实战》：[百度云链接](https://pan.baidu.com/s/1m29nxWys-GNnKW704XcRaQ) 提取码：4u04
+-   《韩楷 - JAVA并发编程实战》：[百度云链接](https://pan.baidu.com/s/17eAWqwhohAC8UVv-ag7NBQ) 提取码：hsrm
+-   《杭建 - Java工程师修炼之道》：[百度云链接](https://pan.baidu.com/s/1mRcMuzDasY6GJS4ph-_oPQ) 提取码：mma6
+-   《霍陆续 - Java并发编程之美》：[百度云链接](https://pan.baidu.com/s/1YMRAjCRG04-_AB7UhxATcw) 提取码：qfuw
+-   《霍斯特曼 - Java核心技术 卷1 基础知识 第10版》：[百度云链接](https://pan.baidu.com/s/16PMEnWgER_9Is_NNs8pbGw) 提取码：qdkw
+-   《霍斯特曼 - Java核心技术 卷2 高级特性 第10版》：[百度云链接](https://pan.baidu.com/s/1lxN-con1bOIbM_5dA50x0w) 提取码：qlno
+-   《克雷格 - Spring实战（第4版）》：[百度云链接](https://pan.baidu.com/s/1BEpQzs4o193JS517GrxT3Q) 提取码：luz0
+-   《刘增辉 - MyBatis从入门到精通》：[百度云链接](https://pan.baidu.com/s/1Px-vzO8R_J60rc2l015TpQ) 提取码：qzaz
+-   《罗刚 - 网络爬虫全解析  技术、原理与实践》：[百度云链接](https://pan.baidu.com/s/1irndtSCjvVDiwFHKuyz5XQ) 提取码：zvc1
+-   《深入浅出Java多线程》：[百度云链接](https://pan.baidu.com/s/1-qs4CINDoy81maS6Az7vug) 提取码：0sk9
+-   《许进 - 重新定义Spring Cloud实战》：[百度云链接](https://pan.baidu.com/s/1E9YC88YXH7K0lsMxf_ZXDQ) 提取码：cp3v
+-   《俞黎敏 - Effective Java中文版（原书第3版）》：[百度云链接](https://pan.baidu.com/s/16zkTcoLS36bF-k9HKEzGeg) 提取码：chhd
+-   《周志明 - 深入理解Java虚拟机（第2版）》：[百度云链接](https://pan.baidu.com/s/1PG7xJfQhGBqjb-PyW2VYPg) 提取码：3flo
+-   《周志明 - 深入理解Java虚拟机（第3版）》：[百度云链接](https://pan.baidu.com/s/1aFP2rpz2-1luI0P7AzuilA) 提取码：hahr
 
 ## Linux
 
