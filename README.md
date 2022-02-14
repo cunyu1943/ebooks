@@ -58,25 +58,25 @@
 ## C 语言
 
 -   《啊哈磊 - 啊哈c语言》：[百度云链接](https://pan.baidu.com/s/1kRca9RFSrpDo2yAxGVoyiQ?pwd=h5zs) 提取码：h5zs
--   《郑赟 - Hello C语言》：[百度云链接](https://pan.baidu.com/s/16-dIucYLZu84zMx5ZDijBA?pwd=umaa) 提取码：umaa
--   《王娣 - C语言从入门到精通》：[百度云链接](https://pan.baidu.com/s/10KPilJq2aN4kBjvgeCbPHQ?pwd=kish) 提取码：kish
+-   《安德鲁 - C陷阱与缺陷(C和C++经典著作)》：[百度云链接](https://pan.baidu.com/s/1-MZ3X8C1EbDSBLu8ZTs0tw?pwd=g0vx) 提取码：g0vx
+-   《布拉德利 - 21天学通C语言（第六版）》：[百度云链接](https://pan.baidu.com/s/1e0tGdZWdnIri0f7vlt8cRA?pwd=8fzp) 提取码：8fzp
+-   《柴田望洋 - 明解C语言》：[百度云链接](https://pan.baidu.com/s/1sH3GdLsZn84KR6v6oNIMzg?pwd=c51h) 提取码：c51h
+-   《大卫.格里芬 - Head.First.C(2012)》：[百度云链接](https://pan.baidu.com/s/1FFscVmdJgHkw6o_d4EpcwQ?pwd=3h1f) 提取码：3h1f
 -   《霍尔顿 - c语言入门经典(第5版)》：[百度云链接](https://pan.baidu.com/s/1LG4lrst6-mdJfR6URnD5tg?pwd=87aa) 提取码：87aa
 -   《斯蒂芬 - C Primer Plus(第五版)中文版》：[百度云链接](https://pan.baidu.com/s/13sLB7sP2I6_NKlhuKKugMQ?pwd=j0jb) 提取码：j0jb
--   《大卫.格里芬 - Head.First.C(2012)》：[百度云链接](https://pan.baidu.com/s/1FFscVmdJgHkw6o_d4EpcwQ?pwd=3h1f) 提取码：3h1f
--   《柴田望洋 - 明解C语言》：[百度云链接](https://pan.baidu.com/s/1sH3GdLsZn84KR6v6oNIMzg?pwd=c51h) 提取码：c51h
--   《布拉德利 - 21天学通C语言（第六版）》：[百度云链接](https://pan.baidu.com/s/1e0tGdZWdnIri0f7vlt8cRA?pwd=8fzp) 提取码：8fzp
--   《张小潘 - C语言编程：一本全面的C语言入门教程  （第3版）》：[百度云链接](https://pan.baidu.com/s/1nSJ49tE23HuVp-b_yViFsw?pwd=bi8n) 提取码：bi8n
--   《斯科特 - Effective C 中文版(第3版)》：[百度云链接](https://pan.baidu.com/s/1vO6IbyJCXN52bmTCrO6IJw?pwd=9hq8) 提取码：9hq8
 -   《斯蒂芬.沙梅特- 你必须知道的495个C语言问题》：[百度云链接](https://pan.baidu.com/s/1TMdsoKgn1wTw0OAHbzFLhQ?pwd=786c) 提取码：786c
--   《安德鲁 - C陷阱与缺陷(C和C++经典著作)》：[百度云链接](https://pan.baidu.com/s/1-MZ3X8C1EbDSBLu8ZTs0tw?pwd=g0vx) 提取码：g0vx
+-   《斯科特 - Effective C 中文版(第3版)》：[百度云链接](https://pan.baidu.com/s/1vO6IbyJCXN52bmTCrO6IJw?pwd=9hq8) 提取码：9hq8
+-   《王娣 - C语言从入门到精通》：[百度云链接](https://pan.baidu.com/s/10KPilJq2aN4kBjvgeCbPHQ?pwd=kish) 提取码：kish
+-   《张小潘 - C语言编程：一本全面的C语言入门教程  （第3版）》：[百度云链接](https://pan.baidu.com/s/1nSJ49tE23HuVp-b_yViFsw?pwd=bi8n) 提取码：bi8n
+-   《郑赟 - Hello C语言》：[百度云链接](https://pan.baidu.com/s/16-dIucYLZu84zMx5ZDijBA?pwd=umaa) 提取码：umaa
 
 ## C++
 
 -   《Google C++ 编程风格指南》：[百度云链接](https://pan.baidu.com/s/1kGBUZfv9wjtwlFX8HEXHdA?pwd=lqxs) 提取码：lqxs
--   《斯科特 - C++高级编程(第2版)》：[百度云链接](https://pan.baidu.com/s/14rbtNEtMTBuCR_BI4kSG5g?pwd=k6lu) 提取码：k6lu
 -   《保罗·戴特尔  - C++大学教程(第九版)》：[百度云链接](https://pan.baidu.com/s/1qJ0sruPjlMdWFnSiWOIxYQ?pwd=vr4p) 提取码：vr4p
 -   《斯蒂芬 - C++ Primer Plus中文版第五版》：[百度云链接](https://pan.baidu.com/s/1sdQFMVB53GTwKawdrIbptw?pwd=qlan) 提取码：qlan
 -   《斯蒂芬 - C++.Primer.Plus 中文第 6 版》：[百度云链接](https://pan.baidu.com/s/15z1lQ85OLTlPJR4doJ2_3g?pwd=6y19) 提取码：6y19
+-   《斯科特 - C++高级编程(第2版)》：[百度云链接](https://pan.baidu.com/s/14rbtNEtMTBuCR_BI4kSG5g?pwd=k6lu) 提取码：k6lu
 
 ## Go
 
@@ -150,14 +150,14 @@
 ### 深度学习
 
 -   《Aston Zhang - 动手学深度学习》：[百度云链接](https://pan.baidu.com/s/11g95kAOJ7s6RiS2GrB4CTA?pwd=wvhd) 提取码：wvhd
+-   《陈仲铭 - 深度学习原理与实践》：[百度云链接](https://pan.baidu.com/s/19vi79hAPuBhssI6EGBfHUg?pwd=bw3b) 提取码：bw3b
+-   《邱锡鹏- 神经网络与深度学习》：[百度云链接](https://pan.baidu.com/s/1S5N5y2TEGbBfO5YvFoRwvA?pwd=z057) 提取码：z057
 -   《塔里克.拉希德 - Python神经网络编程》：[百度云链接](https://pan.baidu.com/s/1JTi4DwbRwqb5vKwS86nmGw?pwd=p9s0) 提取码：p9s0
 -   《王晓华 - TensorFlow深度学习应用实践》：[百度云链接](https://pan.baidu.com/s/10GH7m8Ud3C0w0Gfox1aGPg?pwd=uc0w) 提取码：uc0w
--   《邱锡鹏- 神经网络与深度学习》：[百度云链接](https://pan.baidu.com/s/1S5N5y2TEGbBfO5YvFoRwvA?pwd=z057) 提取码：z057
+-   《闫涛 - 深度学习算法实践（基于Theano和TensorFlow）》：[百度云链接](https://pan.baidu.com/s/1kpWjmSpgx8pPJYTXUjt9Tg?pwd=72eo) 提取码：72eo
 -   《伊恩.古德菲洛 - 深度学习》：[百度云链接](https://pan.baidu.com/s/1jENkyAuoXPXIQXBTuKHRqQ?pwd=t038) 提取码：t038
 -   《斋藤康益 - 深度学习入门：基于Python的理论与实现》：[百度云链接](https://pan.baidu.com/s/17k0GkNSLhqE6jimtTiaTKQ?pwd=d6z8) 提取码：d6z8
 -   《张玉宏 - 深度学习之美：AI时代的数据处理与最佳实践》：[百度云链接](https://pan.baidu.com/s/1gQVy8gDU6XVnLTa9ijNOSA?pwd=k6ko) 提取码：k6ko
--   《闫涛 - 深度学习算法实践（基于Theano和TensorFlow）》：[百度云链接](https://pan.baidu.com/s/1kpWjmSpgx8pPJYTXUjt9Tg?pwd=72eo) 提取码：72eo
--   《陈仲铭 - 深度学习原理与实践》：[百度云链接](https://pan.baidu.com/s/19vi79hAPuBhssI6EGBfHUg?pwd=bw3b) 提取码：bw3b
 
 ### 计算机视觉
 
@@ -174,21 +174,21 @@
 
 ## 数据结构与算法
 
+- 《C语言经典算法大全》：[百度云链接](https://pan.baidu.com/s/1D4kUeYEw48wsNvw-zxcvMw?pwd=epx9) 提取码：epx9
+- 《啊哈磊 - 啊哈！算法》：[百度云链接](https://pan.baidu.com/s/1Sx6vrMWfpHG5wizJXyK59g) 提取码：lqyj
+- 《布莱恩.克里斯汀 - 算法之美》：[百度云链接](https://pan.baidu.com/s/1fZF0PGqiDEX0g0eaRGRkaQ) 提取码：49ox
+- 《程杰 - 最新大话数据结构》：[百度云链接](https://pan.baidu.com/s/1P5l-HS5R-J0rFcvcUGIrrA) 提取码：e40p
+- 《邓俊辉 - 数据结构(C++语言版)第三版》：[百度云链接](https://pan.baidu.com/s/1fHu_IuiNawckkJjvZC5J_Q?pwd=82jk) 提取码：82jk
+- 《莱维汀 - 算法设计与分析基础》：[百度云链接](https://pan.baidu.com/s/1Ijh4P_G9j2g6jFHFcFw4rA) 提取码：t2t3
+- 《刘汝佳 - 算法竞赛入门经典（第2版） (算法艺术与信息学竞赛)》：[百度云链接](https://pan.baidu.com/s/1IPqf6uemDiJNY1bb5lSg-w) 提取码：ewe6
 - 《马克.艾伦 - 数据结构与算法分析：C语言描述_原书第2版》：[百度云链接](https://pan.baidu.com/s/1bvaZnGuBEN5l__X63DirIg?pwd=s005) 提取码：s005
 - 《马克.艾伦 - 数据结构与算法分析 java语言描述（原书第3版）》：[百度云链接](https://pan.baidu.com/s/19mZPQWzLPokWjmz5NRVHFQ) 提取码：it7o
-- 《邓俊辉 - 数据结构(C++语言版)第三版》：[百度云链接](https://pan.baidu.com/s/1fHu_IuiNawckkJjvZC5J_Q?pwd=82jk) 提取码：82jk
-- 《C语言经典算法大全》：[百度云链接](https://pan.baidu.com/s/1D4kUeYEw48wsNvw-zxcvMw?pwd=epx9) 提取码：epx9
-- 《刘汝佳 - 算法竞赛入门经典（第2版） (算法艺术与信息学竞赛)》：[百度云链接](https://pan.baidu.com/s/1IPqf6uemDiJNY1bb5lSg-w) 提取码：ewe6
-- 《袁国忠 - 算法图解》：[百度云链接](https://pan.baidu.com/s/1uJCOatwgSArnap1D6dLvNw) 提取码：lw8v
+- 《托马斯 - 算法导论(原书第3版) 中文完整版》：[百度云链接](https://pan.baidu.com/s/1m-MCJIs-VijcbhDKoq2wrg) 提取码：5ts0
 - 《王晓华 - 算法的乐趣》：[百度云链接](https://pan.baidu.com/s/1NTbn3f9VDv2D_HES5m7EUg) 提取码：76v6
 - 《魏梦舒 - 漫画算法：小灰的算法之旅》：[百度云链接](https://pan.baidu.com/s/1zMf6gZvgu6vAHl4EYSZuzQ) 提取码：zs5n
-- 《布莱恩.克里斯汀 - 算法之美》：[百度云链接](https://pan.baidu.com/s/1fZF0PGqiDEX0g0eaRGRkaQ) 提取码：49ox
-- 《啊哈磊 - 啊哈！算法》：[百度云链接](https://pan.baidu.com/s/1Sx6vrMWfpHG5wizJXyK59g) 提取码：lqyj
-- 《莱维汀 - 算法设计与分析基础》：[百度云链接](https://pan.baidu.com/s/1Ijh4P_G9j2g6jFHFcFw4rA) 提取码：t2t3
-- 《左程云 - 程序员代码面试指南 IT名企算法与数据结构题目最优解》：
 - 《谢路云 - 算法(第4版)-文字版》：[百度云链接](https://pan.baidu.com/s/1WQ8Gly-0sMl0YuIr7DvLWw) 提取码：l3bb
-- 《托马斯 - 算法导论(原书第3版) 中文完整版》：[百度云链接](https://pan.baidu.com/s/1m-MCJIs-VijcbhDKoq2wrg) 提取码：5ts0
-- 《程杰 - 最新大话数据结构》：[百度云链接](https://pan.baidu.com/s/1P5l-HS5R-J0rFcvcUGIrrA) 提取码：e40p
+- 《袁国忠 - 算法图解》：[百度云链接](https://pan.baidu.com/s/1uJCOatwgSArnap1D6dLvNw) 提取码：lw8v
+- 《左程云 - 程序员代码面试指南 IT名企算法与数据结构题目最优解》：[百度云链接](https://pan.baidu.com/s/1hezR2u77V1Y37MGuDf44rw) 提取码：brbj
 
 ## 数据库
 
