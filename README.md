@@ -80,7 +80,11 @@
 
 ## Go
 
-
+-   《Go 语言 101》：[百度云链接](https://pan.baidu.com/s/1YGEGOGMd8JtzaJ8S7_FjHg) 提取码：pbko
+-   《William Kennedy - Go 语言实战》：[百度云链接](https://pan.baidu.com/s/1XsYxFwNMSwmz_ENQ1ClFtg) 提取码：z0ap
+-   《柴树杉 - Go语言高级编程》：[百度云链接](https://pan.baidu.com/s/1vZWeulAMDUwxYWT_xUwLTw) 提取码：vosy
+-   《李文塔 - Go语言核心编程》：[百度云链接](https://pan.baidu.com/s/1mee-7HwqFip08P27q4CnFw) 提取码：ava7
+-   《雨痕 - Go 语言学习笔记》：[百度云链接](https://pan.baidu.com/s/1RNVdIvfIGJwleSDvcEQghQ) 提取码：n0xp
 
 ## Java
 
