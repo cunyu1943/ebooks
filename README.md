@@ -215,7 +215,14 @@
 
 ## 数据库
 
-
+-   《Baron - 高性能 MySQL 第三版》：[百度云链接](https://pan.baidu.com/s/1sNbWf0PdeMSKuNoLWFf3OQ) 提取码：n697
+-   《MySQL性能调优与架构设计+PDF中文版全册》：[百度云链接](https://pan.baidu.com/s/1lyxlnsM1POcnz5BDqT2fcw) 提取码：6rnl
+-   《Tapio - 数据库索引设计与优化》：[百度云链接](https://pan.baidu.com/s/1d6Ca5700s6LOWgBXijW2jw) 提取码：6spz
+-   《姜承尧 - MySQL技术内幕：SQL编程》：[百度云链接](https://pan.baidu.com/s/1Zon-Sf9U-oBkzEfUTTmy_Q) 提取码：z39y
+-   《孔祥盛 - MySQL核心技术与最佳实践》：[百度云链接](https://pan.baidu.com/s/1g3aa6WA9BGoBiXO0fz1L4g) 提取码：7z77
+-   《刘晓霞（译）- MySQL必知必会》：[百度云链接](https://pan.baidu.com/s/1JP2rHVuIBpKS-wJHuZcWjQ) 提取码：mli3
+-   《王强 - sql cookbook》：[百度云链接](https://pan.baidu.com/s/1cCWV4Gb4K4GiMV5D88PbFA) 提取码：sd3p
+-   《张权 - SQL查询的艺术》：[百度云链接](https://pan.baidu.com/s/1DWtKrSRGu-gWCtfPeTAy8w) 提取码：5l6r
 
 ## Authors
 
