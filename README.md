@@ -127,58 +127,58 @@
 
 ## Python
 
-1.  《Mahesh - Python极客项目编程_(美)》：
-2.  《Python标准库中文版》：
-3.  《埃里克.马修斯 - Python编程：从入门到实践及源码》：
-4.  《安道（译） - FlaskWeb开发：基于Python的Web应用开发实战》：
-5.  《笨办法学 Python》：
-6.  《布雷特 - Effective Python》：
-7.  《大卫.贝兹利 - Python参考手册(第4版)》：
-8.  《董付国 - Python可以这样学》：
-9.  《胡世杰 - Python高性能编程》：
-10.  《李金洪 - Python带我起飞：入门、进阶、商业实战》：
-11.  《理查德.劳森 - 用Python写网络爬虫》：
-12.  《马克.鲁兹 - Python学习手册 第4版》：
-13.  《齐伟 - 跟老齐学Python：数据分析》：
-14.  《齐伟 - 跟老齐学Python从入门到精通》：
-15.  《斯维加特 - Python游戏编程快速上手》：
-16.  《王海鹏（译） - Python编程快速上手-让繁琐工作自动化》：
-17.  《韦斯利 - Python核心编程 第二版》：
-18.  《熊能 - Python Cookbook第三版中文》：
-19.  《詹姆斯.佩恩 - Python编程入门经典》：
-20.  《张颖 - 编写高质量代码：改善Python程序的91个建议迷你书》：
+1.  《Mahesh - Python极客项目编程_(美)》：[百度云链接](https://pan.baidu.com/s/1UzfKm0xotr0UAuHcn6gSOg) 提取码：auhf
+2.  《Python标准库中文版》：[百度云链接](https://pan.baidu.com/s/1QcG86i_Tksnc2b2qzD8sJA) 提取码：skmw
+3.  《埃里克.马修斯 - Python编程：从入门到实践及源码》：[百度云链接](https://pan.baidu.com/s/1Dow5hvXjhggCY8lI9QbQcQ) 提取码：9lf7
+4.  《安道（译） - FlaskWeb开发：基于Python的Web应用开发实战》：[百度云链接](https://pan.baidu.com/s/1j56Axcb9T5l-Jfk9tRoxqA) 提取码：p6og
+5.  《笨办法学 Python》：[百度云链接](https://pan.baidu.com/s/1dXjXehmRHbnNY2kSUITXuA) 提取码：24z2
+6.  《布雷特 - Effective Python》：[百度云链接](https://pan.baidu.com/s/18oDkf-VMDLcAXrzdxDjY1w) 提取码：hddh
+7.  《大卫.贝兹利 - Python参考手册(第4版)》：[百度云链接](https://pan.baidu.com/s/1ad9u4ip5goE_zt1eZPN1ew) 提取码：feay
+8.  《董付国 - Python可以这样学》：[百度云链接](https://pan.baidu.com/s/1ygit4j8wrmOAKZMk-2QB9g) 提取码：7aqq
+9.  《胡世杰 - Python高性能编程》：[百度云链接](https://pan.baidu.com/s/104azlBj6ayVkIk5p-BmBXw) 提取码：43ps
+10.  《李金洪 - Python带我起飞：入门、进阶、商业实战》：[百度云链接](https://pan.baidu.com/s/1id8MoJK32eiJ8lOzgelwRg) 提取码：q5e9
+11.  《理查德.劳森 - 用Python写网络爬虫》：[百度云链接](https://pan.baidu.com/s/1oNKmpM6rgsPvELNBZ5qgYA) 提取码：pee5
+12.  《马克.鲁兹 - Python学习手册 第4版》：[百度云链接](https://pan.baidu.com/s/1C2Smse1wR9Em491nzRxcCw) 提取码：d98f
+13.  《齐伟 - 跟老齐学Python：数据分析》：[百度云链接](https://pan.baidu.com/s/12Q_PcujNya1lurelAda8Bg) 提取码：j5xs
+14.  《齐伟 - 跟老齐学Python从入门到精通》：[百度云链接](https://pan.baidu.com/s/1CpQjm5asy4phsi_gcMRlLw) 提取码：hjyb
+15.  《斯维加特 - Python游戏编程快速上手》：[百度云链接](https://pan.baidu.com/s/1olCHLlqrcQV9z6vZQuJCkg) 提取码：ja6a
+16.  《王海鹏（译） - Python编程快速上手-让繁琐工作自动化》：[百度云链接](https://pan.baidu.com/s/1PKi7D94WWEWXIbvf7aDQjA) 提取码：ku6u
+17.  《韦斯利 - Python核心编程 第二版》：[百度云链接](https://pan.baidu.com/s/1WMoe_mdZAQeR570R6cFmIw) 提取码：k4on
+18.  《熊能 - Python Cookbook第三版中文》：[百度云链接](https://pan.baidu.com/s/1QfHfkLy3NFwrm8D0zvks7Q) 提取码：z2le
+19.  《詹姆斯.佩恩 - Python编程入门经典》：[百度云链接](https://pan.baidu.com/s/1lqHoyOLxg9M0dtkn5vouSA) 提取码：pdc7
+20.  《张颖 - 编写高质量代码：改善Python程序的91个建议迷你书》：[百度云链接](https://pan.baidu.com/s/13KN3rUKXrbF9seErv0Hpww) 提取码：ei7v
 
 ## 办公
 
-1.   《大道至简  Excel这么学最简单》：
-2.   《郭新房 - Visio 2013图形设计从新手到高手》：
-3.   《李栋 - PPT高手之路》：
-4.   《李金蓉 - Photoshop CC高手成长之路》：
-5.   《零一 - Excel BI之道：从零开始学Power工具应用》：
-6.   《毛宇航 - Flash CC动画制作实战从入门到精通》：
-7.   《秋叶 - 和秋叶一起学  PPT又快又好打造说服力幻灯片》：
-8.   《秋叶 - 和秋叶一起学Excel_秋叶_人民邮电_2017.7》：
-9.   《秋叶 - 和秋叶一起学WORD（第2版）》：
-10.   《先锋影像 - Photoshop摄影后期必备99招》：
-11.   《叶霞 - 财务信息处理与分析：Excel 2016》：
-12.   《易学易用系列  新编EXCEL 2016从入门到精通》：
+1.   《大道至简  Excel这么学最简单》：[百度云链接](https://pan.baidu.com/s/17DjVtjI_a1cLyGsZGrXHkA) 提取码：eeoy
+2.   《郭新房 - Visio 2013图形设计从新手到高手》：[百度云链接](https://pan.baidu.com/s/1z7sc3RStd89oPE304MCg0A) 提取码：hwuj
+3.   《李栋 - PPT高手之路》：[百度云链接](https://pan.baidu.com/s/1hqT1E0iYt71Svl4XaGKqgg) 提取码：vcx6
+4.   《李金蓉 - Photoshop CC高手成长之路》：[百度云链接](https://pan.baidu.com/s/1n3uIYbZ78Ai_rB6QP4dRBQ) 提取码：wwoq
+5.   《零一 - Excel BI之道：从零开始学Power工具应用》：[百度云链接](https://pan.baidu.com/s/1IzQfKWzP2cucc-T8PrjVpQ) 提取码：yg0m
+6.   《毛宇航 - Flash CC动画制作实战从入门到精通》：[百度云链接](https://pan.baidu.com/s/1lv1JOEmsKC0v4LrPkjOI1w) 提取码：04nh
+7.   《秋叶 - 和秋叶一起学  PPT又快又好打造说服力幻灯片》：[百度云链接](https://pan.baidu.com/s/1OOtwErptFMdtoehVqH7ntg) 提取码：arqj
+8.   《秋叶 - 和秋叶一起学Excel_秋叶_人民邮电_2017.7》：[百度云链接](https://pan.baidu.com/s/1W2JbvEzod5_Id5c8GljRnA) 提取码：amfb
+9.   《秋叶 - 和秋叶一起学WORD（第2版）》：[百度云链接](https://pan.baidu.com/s/1PLNJFQAaAyaQu000HX5eZw) 提取码：yfcm
+10.   《先锋影像 - Photoshop摄影后期必备99招》：[百度云链接](https://pan.baidu.com/s/1NtOXHFB1e7Cbqw_3u8_Mkw) 提取码：gwpd
+11.   《叶霞 - 财务信息处理与分析：Excel 2016》：[百度云链接](https://pan.baidu.com/s/1lanis6P9hew9_5TIzSbXZA) 提取码：vnhs
+12.   《易学易用系列  新编EXCEL 2016从入门到精通》：[百度云链接](https://pan.baidu.com/s/1Wn9VlAX4bdy8xy2IQwQvFg) 提取码：2mlf
 
 ## 程序员必读
 
-1.   《保罗.格拉汉姆 - 黑客与画家(中文版)》：
-2.   《编程之美——微软技术面试心得》：
-3.   《大卫·古尔力 - HTTP权威指南》：
-4.   《亨特.托马斯 - 程序员修炼之道：从小工到专家》：
-5.   《黄倩（译） - 编程珠玑  第2版(修订版)》：
-6.   《兰德尔 - 程序设计与计算机系统_深入理解计算机系统（中文版第二版）》：
-7.   《马丁- 代码整洁之道》：
-8.   《马丁.福勒 - 重构-改善既有代码的设计》：
-9.   《佩措尔德 - 编码：隐匿在计算机软硬件背后的语言》：
-10.   《上野宣 - 图解HTTP》：
-11.   《斯蒂文.麦克康纳 - 代码大全2》：
-12.   《王元杰 - 一本书读懂TCPIP》：
-13.   《西尾泰和 - 代码之髓 编程语言核心概念》：
-14.   《俞甲子 - 程序员的自我修养--链接、装载与库》：
+1.   《保罗.格拉汉姆 - 黑客与画家(中文版)》：[百度云链接](https://pan.baidu.com/s/18rwqToG24KM-74I6H-3QBg) 提取码：wwlv
+2.   《编程之美——微软技术面试心得》：[百度云链接](https://pan.baidu.com/s/1q8Qgj9z48izr8AGB6EOCaQ) 提取码：2h3s
+3.   《大卫·古尔力 - HTTP权威指南》：[百度云链接](https://pan.baidu.com/s/1dNnoeJZxJfWDNhGv6s-elQ) 提取码：wo1k
+4.   《亨特.托马斯 - 程序员修炼之道：从小工到专家》：[百度云链接](https://pan.baidu.com/s/1pJVZF1ZlajVsh6vEDjmDAw) 提取码：diss
+5.   《黄倩（译） - 编程珠玑  第2版(修订版)》：[百度云链接](https://pan.baidu.com/s/1hAKJpK1eSD7HlHp4PuaKMw) 提取码：nwz8
+6.   《兰德尔 - 程序设计与计算机系统_深入理解计算机系统（中文版第二版）》：[百度云链接](https://pan.baidu.com/s/1s0fsuioB34Mv9nOs6zS0ng) 提取码：hrnk
+7.   《马丁- 代码整洁之道》：链接：[百度云链接](https://pan.baidu.com/s/16MmOTuxUo-k4ysUCbheFZw) 提取码：16c8
+8.   《马丁.福勒 - 重构-改善既有代码的设计》：[百度云链接](https://pan.baidu.com/s/1q6_Y1pysCGB70Cb4MSwr0Q) 提取码：ren7
+9.   《佩措尔德 - 编码：隐匿在计算机软硬件背后的语言》：[百度云链接](https://pan.baidu.com/s/13kG_-OeRKGC8fnNTbsox4w) 提取码：31cq
+10.   《上野宣 - 图解HTTP》：[百度云链接](https://pan.baidu.com/s/169N3PHwnQq7e2jkhsFc4-Q) 提取码：fqcj
+11.   《斯蒂文.麦克康纳 - 代码大全2》：[百度云链接](https://pan.baidu.com/s/1kn6wm4ItGE6XwoE1XGFD6Q) 提取码：f40r
+12.   《王元杰 - 一本书读懂TCPIP》：[百度云链接](https://pan.baidu.com/s/1p-e4ISrd5_d7wifaaBFZVA) 提取码：j7h7
+13.   《西尾泰和 - 代码之髓 编程语言核心概念》：[百度云链接](https://pan.baidu.com/s/1t1YJJkIE3lpnd1ALFdNNYQ) 提取码：yt23
+14.   《俞甲子 - 程序员的自我修养--链接、装载与库》：[百度云链接](https://pan.baidu.com/s/1m-La8F9M8dvC6jPcjW8b2A) 提取码：kyba
 
 
 
