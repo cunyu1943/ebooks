@@ -127,7 +127,26 @@
 
 ## Python
 
-
+-   《Mahesh - Python极客项目编程_(美)》：[百度云链接](https://pan.baidu.com/s/18OXT9n44e8WhHJvqueHmSQ) 提取码：0uvc
+-   《Python标准库中文版》：[百度云链接](https://pan.baidu.com/s/1wdIsG5uz-EL8aq2jwT6qsQ) 提取码：xne1
+-   《埃里克.马修斯 - Python编程：从入门到实践及源码》：[百度云链接](https://pan.baidu.com/s/1w-cpY7V0UyA7p2eITqowAg) 提取码：jyfj
+-   《安道（译） - FlaskWeb开发：基于Python的Web应用开发实战》：[百度云链接](https://pan.baidu.com/s/1MmTLDS8J4Kr_6f1mw59Ryw) 提取码：izm1
+-   《笨办法学 Python》：[百度云链接](https://pan.baidu.com/s/1O1mritREKSkybvyAoSwx4w) 提取码：6svu
+-   《布雷特 - Effective Python》：[百度云链接](https://pan.baidu.com/s/1szsP_0k4WH6X9eUUUqI3wg) 提取码：vnbx
+-   《大卫.贝兹利 - Python参考手册(第4版)》：[百度云链接](https://pan.baidu.com/s/1maUfvLLQwBg3sYcwurgsug) 提取码：294t
+-   《董付国 - Python可以这样学》：[百度云链接](https://pan.baidu.com/s/1Mm55uCbxhOrYtGaBouehFg) 提取码：jths
+-   《胡世杰 - Python高性能编程》：[百度云链接](https://pan.baidu.com/s/1l-1JOmtyXmkLDNXSCqn8oA) 提取码：17n3
+-   《李金洪 - Python带我起飞：入门、进阶、商业实战》：[百度云链接](https://pan.baidu.com/s/1TAC6Uf6g0ARnQ3tLDMvSqQ) 提取码：ktcc
+-   《理查德.劳森 - 用Python写网络爬虫》：[百度云链接](https://pan.baidu.com/s/14kqSBhMrAxr5WC3jwXpo5g) 提取码：b3h8
+-   《马克.鲁兹 - Python学习手册 第4版》：[百度云连接](https://pan.baidu.com/s/122ExElWRLoqoqfH06ZOqvw) 提取码：o6z5
+-   《齐伟 - 跟老齐学Python：数据分析》：[百度云链接](https://pan.baidu.com/s/1hQDjOfxP4WuDjAqZ9o-rnw) 提取码：jen8
+-   《齐伟 - 跟老齐学Python从入门到精通》：[百度云链接](https://pan.baidu.com/s/10qNcalyQDMNTlxoz2HhUJQ) 提取码：g4jt
+-   《斯维加特 - Python游戏编程快速上手》：[百度云链接](https://pan.baidu.com/s/1Au00ZpGDgBlBdw138U3uTw) 提取码：yrxz
+-   《王海鹏（译） - Python编程快速上手-让繁琐工作自动化》：[百度云链接](https://pan.baidu.com/s/16abLJuE8eapkgoytxskzsg) 提取码：ur4n
+-   《韦斯利 - Python核心编程 第二版》：[百度云链接](https://pan.baidu.com/s/12qUR1FvX7ge7TKxGHicnNA) 提取码：oxvp
+-   《熊能 - Python Cookbook第三版中文》：[百度云链接](https://pan.baidu.com/s/1Bx1EcIFguOR1ktzgjRnhsw) 提取码：u39y
+-   《詹姆斯.佩恩 - Python编程入门经典》：[百度云链接](https://pan.baidu.com/s/1bM2uqQaxpKk7xfbneatGyw) 提取码：vujd
+-   《张颖 - 编写高质量代码：改善Python程序的91个建议迷你书》：[百度云链接](https://pan.baidu.com/s/1StYw9a72qx3xLvAAVcJqFQ) 提取码：mg9z
 
 ## 办公
 
