@@ -90,31 +90,33 @@
 
 1.  《Head First Java(第2版)中文版》：[百度云链接](https://pan.baidu.com/s/1aT9VqbUgX8ozhWO9ygiMvA) 提取码：vtqj
 2.  《Java 8 简明教程》：[百度云链接](https://pan.baidu.com/s/1RnDg8N-DwBcFdXiP4P0MsQ) 提取码：8eq0
-3.  《java常见面试题指南》：[百度云链接](https://pan.baidu.com/s/1oaP-4jO-XtmVzpRgimKxUQ) 提取码：p2do
-4.  《Java面试手册（百家企业总汇）》：[百度云链接](https://pan.baidu.com/s/1OoNOvJ9HbGpyr5zKNLTnjg) 提取码：15lv
-5.  《Spring Boot2 教程》：[百度云链接](https://pan.baidu.com/s/1KMOQAl5sxrJ1rxLjrZlCFQ) 提取码：2hh4
-6.  《Spring5中文参考指南》：[百度云链接](https://pan.baidu.com/s/1q5UKAjAbmUdPns9RdDJVsg) 提取码：ykc3
-7.  《SpringBoot 从入门到进阶系列官方小册》：[百度云链接](https://pan.baidu.com/s/1JfiRW_7GHvoRasWfIHWw9g) 提取码：4ayr
-8.  《SpringMVC面试专题及答案》：[百度云链接](https://pan.baidu.com/s/1wSQ2qMwXxuIGC_kF6Jq8Qg) 提取码：qlh8
-9.  《阿里巴巴Java开发手册「泰山版」》：[百度云链接](https://pan.baidu.com/s/11c0Mhh9vmpdDjai3vHeMZw) 提取码：4jip
-10.  《丁雪丰 (译) - Spring Boot实战 》：[百度云链接](https://pan.baidu.com/s/1L1VLBxA6BZuJEShvYrRfQg) 提取码：1ty5
-11.  《多线程、JVM复习及面试100题》：[百度云链接](https://pan.baidu.com/s/136sJR5TYKvAESN6zQrLMXg) 提取码：hknv
-12.  《方志朋 - 深入理解Spring Cloud与微服务构建》：[百度云链接](https://pan.baidu.com/s/1GGz1b9KQK0lzldvGv61tQA) 提取码：8wwy
-13.  《葛一鸣 - 实战Java高并发程序设计（第2版）》：[百度云链接](https://pan.baidu.com/s/1yasWsBq_7xCuuvWeVc1jBA) 提取码：4v6j
-14.  《龚鹏 - 微服务分布式构架开发实战》：[百度云链接](https://pan.baidu.com/s/1m29nxWys-GNnKW704XcRaQ) 提取码：4u04
-15.  《韩楷 - JAVA并发编程实战》：[百度云链接](https://pan.baidu.com/s/17eAWqwhohAC8UVv-ag7NBQ) 提取码：hsrm
-16.  《杭建 - Java工程师修炼之道》：[百度云链接](https://pan.baidu.com/s/1mRcMuzDasY6GJS4ph-_oPQ) 提取码：mma6
-17.  《霍陆续 - Java并发编程之美》：[百度云链接](https://pan.baidu.com/s/1YMRAjCRG04-_AB7UhxATcw) 提取码：qfuw
-18.  《霍斯特曼 - Java核心技术 卷1 基础知识 第10版》：[百度云链接](https://pan.baidu.com/s/16PMEnWgER_9Is_NNs8pbGw) 提取码：qdkw
-19.  《霍斯特曼 - Java核心技术 卷2 高级特性 第10版》：[百度云链接](https://pan.baidu.com/s/1lxN-con1bOIbM_5dA50x0w) 提取码：qlno
-20.  《克雷格 - Spring实战（第4版）》：[百度云链接](https://pan.baidu.com/s/1BEpQzs4o193JS517GrxT3Q) 提取码：luz0
-21.  《刘增辉 - MyBatis从入门到精通》：[百度云链接](https://pan.baidu.com/s/1Px-vzO8R_J60rc2l015TpQ) 提取码：qzaz
-22.  《罗刚 - 网络爬虫全解析  技术、原理与实践》：[百度云链接](https://pan.baidu.com/s/1irndtSCjvVDiwFHKuyz5XQ) 提取码：zvc1
-23.  《深入浅出Java多线程》：[百度云链接](https://pan.baidu.com/s/1-qs4CINDoy81maS6Az7vug) 提取码：0sk9
-24.  《许进 - 重新定义Spring Cloud实战》：[百度云链接](https://pan.baidu.com/s/1E9YC88YXH7K0lsMxf_ZXDQ) 提取码：cp3v
-25.  《俞黎敏 - Effective Java中文版（原书第3版）》：[百度云链接](https://pan.baidu.com/s/16zkTcoLS36bF-k9HKEzGeg) 提取码：chhd
-26.  《周志明 - 深入理解Java虚拟机（第2版）》：[百度云链接](https://pan.baidu.com/s/1PG7xJfQhGBqjb-PyW2VYPg) 提取码：3flo
-27.  《周志明 - 深入理解Java虚拟机（第3版）》：[百度云链接](https://pan.baidu.com/s/1aFP2rpz2-1luI0P7AzuilA) 提取码：hahr
+3.  《Java编程思想(第4版)》：[百度云链接](https://pan.baidu.com/s/1sgy9XTd_tHINKCLvLpvcWg) 提取码：g82t
+4.  《java常见面试题指南》：[百度云链接](https://pan.baidu.com/s/1oaP-4jO-XtmVzpRgimKxUQ) 提取码：p2do
+5.  《Java经典编程300例 》：[百度云链接](https://pan.baidu.com/s/1UCfOQGUDSKFmsQHW2PPoKQ) 提取码：rp10
+6.  《Java面试手册（百家企业总汇）》：[百度云链接](https://pan.baidu.com/s/1OoNOvJ9HbGpyr5zKNLTnjg) 提取码：15lv
+7.  《Spring Boot2 教程》：[百度云链接](https://pan.baidu.com/s/1KMOQAl5sxrJ1rxLjrZlCFQ) 提取码：2hh4
+8.  《Spring5中文参考指南》：[百度云链接](https://pan.baidu.com/s/1q5UKAjAbmUdPns9RdDJVsg) 提取码：ykc3
+9.  《SpringBoot 从入门到进阶系列官方小册》：[百度云链接](https://pan.baidu.com/s/1JfiRW_7GHvoRasWfIHWw9g) 提取码：4ayr
+10.  《SpringMVC面试专题及答案》：[百度云链接](https://pan.baidu.com/s/1wSQ2qMwXxuIGC_kF6Jq8Qg) 提取码：qlh8
+11.  《阿里巴巴Java开发手册「泰山版」》：[百度云链接](https://pan.baidu.com/s/11c0Mhh9vmpdDjai3vHeMZw) 提取码：4jip
+12.  《丁雪丰 (译) - Spring Boot实战 》：[百度云链接](https://pan.baidu.com/s/1L1VLBxA6BZuJEShvYrRfQg) 提取码：1ty5
+13.  《多线程、JVM复习及面试100题》：[百度云链接](https://pan.baidu.com/s/136sJR5TYKvAESN6zQrLMXg) 提取码：hknv
+14.  《方志朋 - 深入理解Spring Cloud与微服务构建》：[百度云链接](https://pan.baidu.com/s/1GGz1b9KQK0lzldvGv61tQA) 提取码：8wwy
+15.  《葛一鸣 - 实战Java高并发程序设计（第2版）》：[百度云链接](https://pan.baidu.com/s/1yasWsBq_7xCuuvWeVc1jBA) 提取码：4v6j
+16.  《龚鹏 - 微服务分布式构架开发实战》：[百度云链接](https://pan.baidu.com/s/1m29nxWys-GNnKW704XcRaQ) 提取码：4u04
+17.  《韩楷 - JAVA并发编程实战》：[百度云链接](https://pan.baidu.com/s/17eAWqwhohAC8UVv-ag7NBQ) 提取码：hsrm
+18.  《杭建 - Java工程师修炼之道》：[百度云链接](https://pan.baidu.com/s/1mRcMuzDasY6GJS4ph-_oPQ) 提取码：mma6
+19.  《霍陆续 - Java并发编程之美》：[百度云链接](https://pan.baidu.com/s/1YMRAjCRG04-_AB7UhxATcw) 提取码：qfuw
+20.  《霍斯特曼 - Java核心技术 卷1 基础知识 第10版》：[百度云链接](https://pan.baidu.com/s/16PMEnWgER_9Is_NNs8pbGw) 提取码：qdkw
+21.  《霍斯特曼 - Java核心技术 卷2 高级特性 第10版》：[百度云链接](https://pan.baidu.com/s/1lxN-con1bOIbM_5dA50x0w) 提取码：qlno
+22.  《克雷格 - Spring实战（第4版）》：[百度云链接](https://pan.baidu.com/s/1BEpQzs4o193JS517GrxT3Q) 提取码：luz0
+23.  《刘增辉 - MyBatis从入门到精通》：[百度云链接](https://pan.baidu.com/s/1Px-vzO8R_J60rc2l015TpQ) 提取码：qzaz
+24.  《罗刚 - 网络爬虫全解析  技术、原理与实践》：[百度云链接](https://pan.baidu.com/s/1irndtSCjvVDiwFHKuyz5XQ) 提取码：zvc1
+25.  《深入浅出Java多线程》：[百度云链接](https://pan.baidu.com/s/1-qs4CINDoy81maS6Az7vug) 提取码：0sk9
+26.  《许进 - 重新定义Spring Cloud实战》：[百度云链接](https://pan.baidu.com/s/1E9YC88YXH7K0lsMxf_ZXDQ) 提取码：cp3v
+27.  《俞黎敏 - Effective Java中文版（原书第3版）》：[百度云链接](https://pan.baidu.com/s/16zkTcoLS36bF-k9HKEzGeg) 提取码：chhd
+28.  《周志明 - 深入理解Java虚拟机（第2版）》：[百度云链接](https://pan.baidu.com/s/1PG7xJfQhGBqjb-PyW2VYPg) 提取码：3flo
+29.  《周志明 - 深入理解Java虚拟机（第3版）》：[百度云链接](https://pan.baidu.com/s/1aFP2rpz2-1luI0P7AzuilA) 提取码：hahr
 
 ## Linux
 
@@ -234,6 +236,8 @@
 2.   《丹尼尔 - 自然语言处理综述（英文第三版）》：[百度云链接](https://pan.baidu.com/s/1C4IcrukfCuR_LXBn44gqgg?pwd=ik9u) 提取码：ik9u
 3.   《克里斯托弗·d·曼宁 - 统计自然语言处理基础》：[百度云链接](https://pan.baidu.com/s/1sKbxiD5AvUFhghmT8dyBTg?pwd=2v72) 提取码：2v72
 4.   《克里斯托弗·d·曼宁 - 信息检索导论》：[百度云链接](https://pan.baidu.com/s/1c5OWLRE4AbLAMcPE9DtS2A?pwd=wx9h) 提取码：wx9h
+5.   《用Python进行自然语言处理》：[百度云链接](https://pan.baidu.com/s/18A_1hDMNCLMVcYJds2VPyQ) 提取码：bk9t
+6.   《宗成庆- 统计自然语言处理 》：[百度云链接](https://pan.baidu.com/s/1LMwoTszouuOvwcHpANNrmA) 提取码：di75
 
 ### 其他
 
@@ -261,13 +265,14 @@
 ## 数据库
 
 1.   《Baron - 高性能 MySQL 第三版》：[百度云链接](https://pan.baidu.com/s/1oClRwVF0ZuklooNOKmoSFA) 提取码：zz63
-2.   《MySQL性能调优与架构设计+PDF中文版全册》：[百度云链接](https://pan.baidu.com/s/1Xwd35Qn3z-GLjMmZu_nqEQ) 提取码：t9wu
-3.   《Tapio - 数据库索引设计与优化》：[百度云链接](https://pan.baidu.com/s/1snAf_IoNJMLoUwiGlhS59A) 提取码：c1dk
-4.   《姜承尧 - MySQL技术内幕：SQL编程》：[百度云链接](https://pan.baidu.com/s/1VZVUkBWu-z1d_t-hQDjVcw) 提取码：iq0f
-5.   《孔祥盛 - MySQL核心技术与最佳实践》：[百度云链接](https://pan.baidu.com/s/1hfJC5wvVXY3464AsFsFMnw) 提取码：sb1s
-6.   《刘晓霞（译）- MySQL必知必会》：[百度云链接](https://pan.baidu.com/s/117G7FCxwOdhedlQW5x7SAA) 提取码：el0a
-7.   《王强 - sql cookbook》：[百度云链接](https://pan.baidu.com/s/1COqzWIKPHrxzoXSoTTAb_Q) 提取码：na7w
-8.   《张权 - SQL查询的艺术》：[百度云链接](https://pan.baidu.com/s/1ArchZrgpSecpGOIpTxWTyg) 提取码：8he9
+2.   《MySQL5.7从入门到精通》：[百度云链接](https://pan.baidu.com/s/15PTgNmsLFkCirf5Us7EnQw) 提取码：qnfy
+3.   《MySQL性能调优与架构设计+PDF中文版全册》：[百度云链接](https://pan.baidu.com/s/1Xwd35Qn3z-GLjMmZu_nqEQ) 提取码：t9wu
+4.   《Tapio - 数据库索引设计与优化》：[百度云链接](https://pan.baidu.com/s/1snAf_IoNJMLoUwiGlhS59A) 提取码：c1dk
+5.   《姜承尧 - MySQL技术内幕：SQL编程》：[百度云链接](https://pan.baidu.com/s/1VZVUkBWu-z1d_t-hQDjVcw) 提取码：iq0f
+6.   《孔祥盛 - MySQL核心技术与最佳实践》：[百度云链接](https://pan.baidu.com/s/1hfJC5wvVXY3464AsFsFMnw) 提取码：sb1s
+7.   《刘晓霞（译）- MySQL必知必会》：[百度云链接](https://pan.baidu.com/s/117G7FCxwOdhedlQW5x7SAA) 提取码：el0a
+8.   《王强 - sql cookbook》：[百度云链接](https://pan.baidu.com/s/1COqzWIKPHrxzoXSoTTAb_Q) 提取码：na7w
+9.   《张权 - SQL查询的艺术》：[百度云链接](https://pan.baidu.com/s/1ArchZrgpSecpGOIpTxWTyg) 提取码：8he9
 
 ## 个人提升
 
