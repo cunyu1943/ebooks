@@ -127,26 +127,26 @@
 
 ## Python
 
--   《Mahesh - Python极客项目编程_(美)》：[百度云链接](https://pan.baidu.com/s/18OXT9n44e8WhHJvqueHmSQ) 提取码：0uvc
--   《Python标准库中文版》：[百度云链接](https://pan.baidu.com/s/1wdIsG5uz-EL8aq2jwT6qsQ) 提取码：xne1
--   《埃里克.马修斯 - Python编程：从入门到实践及源码》：[百度云链接](https://pan.baidu.com/s/1w-cpY7V0UyA7p2eITqowAg) 提取码：jyfj
--   《安道（译） - FlaskWeb开发：基于Python的Web应用开发实战》：[百度云链接](https://pan.baidu.com/s/1MmTLDS8J4Kr_6f1mw59Ryw) 提取码：izm1
--   《笨办法学 Python》：[百度云链接](https://pan.baidu.com/s/1O1mritREKSkybvyAoSwx4w) 提取码：6svu
--   《布雷特 - Effective Python》：[百度云链接](https://pan.baidu.com/s/1szsP_0k4WH6X9eUUUqI3wg) 提取码：vnbx
--   《大卫.贝兹利 - Python参考手册(第4版)》：[百度云链接](https://pan.baidu.com/s/1maUfvLLQwBg3sYcwurgsug) 提取码：294t
--   《董付国 - Python可以这样学》：[百度云链接](https://pan.baidu.com/s/1Mm55uCbxhOrYtGaBouehFg) 提取码：jths
--   《胡世杰 - Python高性能编程》：[百度云链接](https://pan.baidu.com/s/1l-1JOmtyXmkLDNXSCqn8oA) 提取码：17n3
--   《李金洪 - Python带我起飞：入门、进阶、商业实战》：[百度云链接](https://pan.baidu.com/s/1TAC6Uf6g0ARnQ3tLDMvSqQ) 提取码：ktcc
--   《理查德.劳森 - 用Python写网络爬虫》：[百度云链接](https://pan.baidu.com/s/14kqSBhMrAxr5WC3jwXpo5g) 提取码：b3h8
--   《马克.鲁兹 - Python学习手册 第4版》：[百度云连接](https://pan.baidu.com/s/122ExElWRLoqoqfH06ZOqvw) 提取码：o6z5
--   《齐伟 - 跟老齐学Python：数据分析》：[百度云链接](https://pan.baidu.com/s/1hQDjOfxP4WuDjAqZ9o-rnw) 提取码：jen8
--   《齐伟 - 跟老齐学Python从入门到精通》：[百度云链接](https://pan.baidu.com/s/10qNcalyQDMNTlxoz2HhUJQ) 提取码：g4jt
--   《斯维加特 - Python游戏编程快速上手》：[百度云链接](https://pan.baidu.com/s/1Au00ZpGDgBlBdw138U3uTw) 提取码：yrxz
--   《王海鹏（译） - Python编程快速上手-让繁琐工作自动化》：[百度云链接](https://pan.baidu.com/s/16abLJuE8eapkgoytxskzsg) 提取码：ur4n
--   《韦斯利 - Python核心编程 第二版》：[百度云链接](https://pan.baidu.com/s/12qUR1FvX7ge7TKxGHicnNA) 提取码：oxvp
--   《熊能 - Python Cookbook第三版中文》：[百度云链接](https://pan.baidu.com/s/1Bx1EcIFguOR1ktzgjRnhsw) 提取码：u39y
--   《詹姆斯.佩恩 - Python编程入门经典》：[百度云链接](https://pan.baidu.com/s/1bM2uqQaxpKk7xfbneatGyw) 提取码：vujd
--   《张颖 - 编写高质量代码：改善Python程序的91个建议迷你书》：[百度云链接](https://pan.baidu.com/s/1StYw9a72qx3xLvAAVcJqFQ) 提取码：mg9z
+-   《Mahesh - Python极客项目编程_(美)》：
+-   《Python标准库中文版》：
+-   《埃里克.马修斯 - Python编程：从入门到实践及源码》：
+-   《安道（译） - FlaskWeb开发：基于Python的Web应用开发实战》：
+-   《笨办法学 Python》：
+-   《布雷特 - Effective Python》：
+-   《大卫.贝兹利 - Python参考手册(第4版)》：
+-   《董付国 - Python可以这样学》：
+-   《胡世杰 - Python高性能编程》：
+-   《李金洪 - Python带我起飞：入门、进阶、商业实战》：
+-   《理查德.劳森 - 用Python写网络爬虫》：
+-   《马克.鲁兹 - Python学习手册 第4版》：
+-   《齐伟 - 跟老齐学Python：数据分析》：
+-   《齐伟 - 跟老齐学Python从入门到精通》：
+-   《斯维加特 - Python游戏编程快速上手》：
+-   《王海鹏（译） - Python编程快速上手-让繁琐工作自动化》：
+-   《韦斯利 - Python核心编程 第二版》：
+-   《熊能 - Python Cookbook第三版中文》：
+-   《詹姆斯.佩恩 - Python编程入门经典》：
+-   《张颖 - 编写高质量代码：改善Python程序的91个建议迷你书》：
 
 ## 办公
 
@@ -197,32 +197,32 @@
 
 ## 数据结构与算法
 
-- 《C语言经典算法大全》：[百度云链接](https://pan.baidu.com/s/1D4kUeYEw48wsNvw-zxcvMw?pwd=epx9) 提取码：epx9
-- 《啊哈磊 - 啊哈！算法》：[百度云链接](https://pan.baidu.com/s/1Sx6vrMWfpHG5wizJXyK59g) 提取码：lqyj
-- 《布莱恩.克里斯汀 - 算法之美》：[百度云链接](https://pan.baidu.com/s/1fZF0PGqiDEX0g0eaRGRkaQ) 提取码：49ox
-- 《程杰 - 最新大话数据结构》：[百度云链接](https://pan.baidu.com/s/1P5l-HS5R-J0rFcvcUGIrrA) 提取码：e40p
-- 《邓俊辉 - 数据结构(C++语言版)第三版》：[百度云链接](https://pan.baidu.com/s/1fHu_IuiNawckkJjvZC5J_Q?pwd=82jk) 提取码：82jk
-- 《莱维汀 - 算法设计与分析基础》：[百度云链接](https://pan.baidu.com/s/1Ijh4P_G9j2g6jFHFcFw4rA) 提取码：t2t3
-- 《刘汝佳 - 算法竞赛入门经典（第2版） (算法艺术与信息学竞赛)》：[百度云链接](https://pan.baidu.com/s/1IPqf6uemDiJNY1bb5lSg-w) 提取码：ewe6
-- 《马克.艾伦 - 数据结构与算法分析：C语言描述_原书第2版》：[百度云链接](https://pan.baidu.com/s/1bvaZnGuBEN5l__X63DirIg?pwd=s005) 提取码：s005
-- 《马克.艾伦 - 数据结构与算法分析 java语言描述（原书第3版）》：[百度云链接](https://pan.baidu.com/s/19mZPQWzLPokWjmz5NRVHFQ) 提取码：it7o
-- 《托马斯 - 算法导论(原书第3版) 中文完整版》：[百度云链接](https://pan.baidu.com/s/1m-MCJIs-VijcbhDKoq2wrg) 提取码：5ts0
-- 《王晓华 - 算法的乐趣》：[百度云链接](https://pan.baidu.com/s/1NTbn3f9VDv2D_HES5m7EUg) 提取码：76v6
-- 《魏梦舒 - 漫画算法：小灰的算法之旅》：[百度云链接](https://pan.baidu.com/s/1zMf6gZvgu6vAHl4EYSZuzQ) 提取码：zs5n
-- 《谢路云 - 算法(第4版)-文字版》：[百度云链接](https://pan.baidu.com/s/1WQ8Gly-0sMl0YuIr7DvLWw) 提取码：l3bb
-- 《袁国忠 - 算法图解》：[百度云链接](https://pan.baidu.com/s/1uJCOatwgSArnap1D6dLvNw) 提取码：lw8v
-- 《左程云 - 程序员代码面试指南 IT名企算法与数据结构题目最优解》：[百度云链接](https://pan.baidu.com/s/1hezR2u77V1Y37MGuDf44rw) 提取码：brbj
+- 《C语言经典算法大全》：
+- 《啊哈磊 - 啊哈！算法》：
+- 《布莱恩.克里斯汀 - 算法之美》：
+- 《程杰 - 最新大话数据结构》：
+- 《邓俊辉 - 数据结构(C++语言版)第三版》：
+- 《莱维汀 - 算法设计与分析基础》：
+- 《刘汝佳 - 算法竞赛入门经典（第2版） (算法艺术与信息学竞赛)》：
+- 《马克.艾伦 - 数据结构与算法分析：C语言描述_原书第2版》：
+- 《马克.艾伦 - 数据结构与算法分析 java语言描述（原书第3版）》：
+- 《托马斯 - 算法导论(原书第3版) 中文完整版》：
+- 《王晓华 - 算法的乐趣》：
+- 《魏梦舒 - 漫画算法：小灰的算法之旅》：
+- 《谢路云 - 算法(第4版)-文字版》：
+- 《袁国忠 - 算法图解》：
+- 《左程云 - 程序员代码面试指南 IT名企算法与数据结构题目最优解》：
 
 ## 数据库
 
--   《Baron - 高性能 MySQL 第三版》：[百度云链接](https://pan.baidu.com/s/1sNbWf0PdeMSKuNoLWFf3OQ) 提取码：n697
--   《MySQL性能调优与架构设计+PDF中文版全册》：[百度云链接](https://pan.baidu.com/s/1lyxlnsM1POcnz5BDqT2fcw) 提取码：6rnl
--   《Tapio - 数据库索引设计与优化》：[百度云链接](https://pan.baidu.com/s/1d6Ca5700s6LOWgBXijW2jw) 提取码：6spz
--   《姜承尧 - MySQL技术内幕：SQL编程》：[百度云链接](https://pan.baidu.com/s/1Zon-Sf9U-oBkzEfUTTmy_Q) 提取码：z39y
--   《孔祥盛 - MySQL核心技术与最佳实践》：[百度云链接](https://pan.baidu.com/s/1g3aa6WA9BGoBiXO0fz1L4g) 提取码：7z77
--   《刘晓霞（译）- MySQL必知必会》：[百度云链接](https://pan.baidu.com/s/1JP2rHVuIBpKS-wJHuZcWjQ) 提取码：mli3
--   《王强 - sql cookbook》：[百度云链接](https://pan.baidu.com/s/1cCWV4Gb4K4GiMV5D88PbFA) 提取码：sd3p
--   《张权 - SQL查询的艺术》：[百度云链接](https://pan.baidu.com/s/1DWtKrSRGu-gWCtfPeTAy8w) 提取码：5l6r
+-   《Baron - 高性能 MySQL 第三版》：
+-   《MySQL性能调优与架构设计+PDF中文版全册》：
+-   《Tapio - 数据库索引设计与优化》：
+-   《姜承尧 - MySQL技术内幕：SQL编程》：
+-   《孔祥盛 - MySQL核心技术与最佳实践》：
+-   《刘晓霞（译）- MySQL必知必会》：
+-   《王强 - sql cookbook》：
+-   《张权 - SQL查询的艺术》：
 
 ## Authors
 
