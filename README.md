@@ -266,12 +266,13 @@
 
 1.   《Baron - 高性能 MySQL 第三版》：[百度云链接](https://pan.baidu.com/s/1oClRwVF0ZuklooNOKmoSFA) 提取码：zz63
 2.   《MySQL5.7从入门到精通》：[百度云链接](https://pan.baidu.com/s/15PTgNmsLFkCirf5Us7EnQw) 提取码：qnfy
-3.   《MySQL性能调优与架构设计+PDF中文版全册》：[百度云链接](https://pan.baidu.com/s/1Xwd35Qn3z-GLjMmZu_nqEQ) 提取码：t9wu
-4.   《Tapio - 数据库索引设计与优化》：[百度云链接](https://pan.baidu.com/s/1snAf_IoNJMLoUwiGlhS59A) 提取码：c1dk
-5.   《姜承尧 - MySQL技术内幕：SQL编程》：[百度云链接](https://pan.baidu.com/s/1VZVUkBWu-z1d_t-hQDjVcw) 提取码：iq0f
-6.   《孔祥盛 - MySQL核心技术与最佳实践》：[百度云链接](https://pan.baidu.com/s/1hfJC5wvVXY3464AsFsFMnw) 提取码：sb1s
-7.   《刘晓霞（译）- MySQL必知必会》：[百度云链接](https://pan.baidu.com/s/117G7FCxwOdhedlQW5x7SAA) 提取码：el0a
-8.   《王强 - sql cookbook》：[百度云链接](https://pan.baidu.com/s/1COqzWIKPHrxzoXSoTTAb_Q) 提取码：na7w
+3.   《MySQL是怎样运行的：从根儿上理解MySQL》：[百度云链接](https://pan.baidu.com/s/1uixszYM0xWlHee8m9WCQ_Q) 提取码：2znu
+4.   《MySQL性能调优与架构设计+PDF中文版全册》：[百度云链接](https://pan.baidu.com/s/1Xwd35Qn3z-GLjMmZu_nqEQ) 提取码：t9wu
+5.   《Tapio - 数据库索引设计与优化》：[百度云链接](https://pan.baidu.com/s/1snAf_IoNJMLoUwiGlhS59A) 提取码：c1dk
+6.   《姜承尧 - MySQL技术内幕：SQL编程》：[百度云链接](https://pan.baidu.com/s/1VZVUkBWu-z1d_t-hQDjVcw) 提取码：iq0f
+7.   《孔祥盛 - MySQL核心技术与最佳实践》：[百度云链接](https://pan.baidu.com/s/1hfJC5wvVXY3464AsFsFMnw) 提取码：sb1s
+8.   《刘晓霞（译）- MySQL必知必会》：[百度云链接](https://pan.baidu.com/s/117G7FCxwOdhedlQW5x7SAA) 提取码：el0a
+9.   《王强 - sql cookbook》：[百度云链接](https://pan.baidu.com/s/1COqzWIKPHrxzoXSoTTAb_Q) 提取码：na7w
 9.   《张权 - SQL查询的艺术》：[百度云链接](https://pan.baidu.com/s/1ArchZrgpSecpGOIpTxWTyg) 提取码：8he9
 
 ## 个人提升
