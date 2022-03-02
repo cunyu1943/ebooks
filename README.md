@@ -30,7 +30,7 @@
 
 本仓库**持续更新**中，后续会陆续添加更多资源，**强烈建议大家 Star 本仓库**，找书的话可以直接 **Ctrl + F** 搜索，大幅提高效率。
 
- 
+ 此外，分享方式分为百度云盘和蓝奏云分享，但限于蓝奏云上传文件大小限制，所以有的文件只有百度云盘分享的方式。
 
 ## 导航
 
@@ -91,8 +91,8 @@
 1.  《Head First Java(第2版)中文版》：[百度云链接](https://pan.baidu.com/s/1aT9VqbUgX8ozhWO9ygiMvA) 提取码：vtqj
 2.  《Java 8 简明教程》：[百度云链接](https://pan.baidu.com/s/1RnDg8N-DwBcFdXiP4P0MsQ) 提取码：8eq0
 3.  《Java编程思想(第4版)》：[百度云链接](https://pan.baidu.com/s/1sgy9XTd_tHINKCLvLpvcWg) 提取码：g82t
-4.  《java常见面试题指南》：[百度云链接](https://pan.baidu.com/s/1oaP-4jO-XtmVzpRgimKxUQ) 提取码：p2do
-5.  《Java经典编程300例 》：[百度云链接](https://pan.baidu.com/s/1UCfOQGUDSKFmsQHW2PPoKQ) 提取码：rp10
+4.  《Java常见面试题指南》：[百度云链接](https://pan.baidu.com/s/1oaP-4jO-XtmVzpRgimKxUQ) 提取码：p2do
+5.  《Java经典编程300例 》：❌[百度云链接](https://pan.baidu.com/s/1UCfOQGUDSKFmsQHW2PPoKQ) 提取码：rp10；✅[蓝奏云](https://cunyu1943.lanzout.com/iEYZS00v9qgd)
 6.  《Java面试手册（百家企业总汇）》：[百度云链接](https://pan.baidu.com/s/1OoNOvJ9HbGpyr5zKNLTnjg) 提取码：15lv
 7.  《Spring Boot2 教程》：[百度云链接](https://pan.baidu.com/s/1KMOQAl5sxrJ1rxLjrZlCFQ) 提取码：2hh4
 8.  《Spring5中文参考指南》：[百度云链接](https://pan.baidu.com/s/1q5UKAjAbmUdPns9RdDJVsg) 提取码：ykc3
