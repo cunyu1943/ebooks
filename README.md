@@ -161,6 +161,7 @@
 7.   《秋叶 - 和秋叶一起学  PPT又快又好打造说服力幻灯片》：[百度云链接](https://pan.baidu.com/s/1OOtwErptFMdtoehVqH7ntg) 提取码：arqj
 8.   《秋叶 - 和秋叶一起学Excel_秋叶_人民邮电_2017.7》：[百度云链接](https://pan.baidu.com/s/1W2JbvEzod5_Id5c8GljRnA) 提取码：amfb
 9.   《秋叶 - 和秋叶一起学WORD（第2版）》：[百度云链接](https://pan.baidu.com/s/1PLNJFQAaAyaQu000HX5eZw) 提取码：yfcm
+10. 《史卫亚 - Excel 2019从入门到精通》：[百度云链接](https://pan.baidu.com/s/1-xnHaCMcRs8RPISmWsHAWg) 提取码：ms7k
 10.   《先锋影像 - Photoshop摄影后期必备99招》：[百度云链接](https://pan.baidu.com/s/1NtOXHFB1e7Cbqw_3u8_Mkw) 提取码：gwpd
 11.   《叶霞 - 财务信息处理与分析：Excel 2016》：[百度云链接](https://pan.baidu.com/s/1lanis6P9hew9_5TIzSbXZA) 提取码：vnhs
 12.   《易学易用系列  新编EXCEL 2016从入门到精通》：[百度云链接](https://pan.baidu.com/s/1Wn9VlAX4bdy8xy2IQwQvFg) 提取码：2mlf
