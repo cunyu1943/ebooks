@@ -57,25 +57,25 @@
 
 ## C 语言
 
-1.  《啊哈磊 - 啊哈c语言》：[百度云链接](https://pan.baidu.com/s/1kRca9RFSrpDo2yAxGVoyiQ?pwd=h5zs) 提取码：h5zs
-2.  《安德鲁 - C陷阱与缺陷(C和C++经典著作)》：[百度云链接](https://pan.baidu.com/s/1-MZ3X8C1EbDSBLu8ZTs0tw?pwd=g0vx) 提取码：g0vx
-3.  《布拉德利 - 21天学通C语言（第六版）》：[百度云链接](https://pan.baidu.com/s/1e0tGdZWdnIri0f7vlt8cRA?pwd=8fzp) 提取码：8fzp
-4.  《柴田望洋 - 明解C语言》：[百度云链接](https://pan.baidu.com/s/1sH3GdLsZn84KR6v6oNIMzg?pwd=c51h) 提取码：c51h
-5.  《大卫.格里芬 - Head.First.C(2012)》：[百度云链接](https://pan.baidu.com/s/1FFscVmdJgHkw6o_d4EpcwQ?pwd=3h1f) 提取码：3h1f
+1.  《啊哈磊 - 啊哈c语言》：❌[百度云链接](https://pan.baidu.com/s/1kRca9RFSrpDo2yAxGVoyiQ?pwd=h5zs) 提取码：h5zs；✅[蓝奏云](https://cunyu1943.lanzout.com/iaBRr00wa80b)
+2.  《安德鲁 - C陷阱与缺陷(C和C++经典著作)》：❌[百度云链接](https://pan.baidu.com/s/1-MZ3X8C1EbDSBLu8ZTs0tw?pwd=g0vx) 提取码：g0vx；✅[蓝奏云](https://cunyu1943.lanzout.com/iYbC000wa83e)
+3.  《布拉德利 - 21天学通C语言（第六版）》：[百度云链接](https://pan.baidu.com/s/1e0tGdZWdnIri0f7vlt8cRA?pwd=8fzp) 提取码：8fzp；✅[蓝奏云](https://cunyu1943.lanzout.com/inMvK00wa8ab)
+4.  《柴田望洋 - 明解C语言》：❌[百度云链接](https://pan.baidu.com/s/1sH3GdLsZn84KR6v6oNIMzg?pwd=c51h) 提取码：c51h；✅[蓝奏云](https://cunyu1943.lanzout.com/i8pr700wa8of)
+5.  《大卫.格里芬 - Head.First.C(2012)》：❌[百度云链接](https://pan.baidu.com/s/1FFscVmdJgHkw6o_d4EpcwQ?pwd=3h1f) 提取码：3h1f；✅[蓝奏云](https://cunyu1943.lanzout.com/isRXN00wa8xe)
 6.  《霍尔顿 - c语言入门经典(第5版)》：[百度云链接](https://pan.baidu.com/s/1LG4lrst6-mdJfR6URnD5tg?pwd=87aa) 提取码：87aa
-7.  《斯蒂芬 - C Primer Plus(第五版)中文版》：[百度云链接](https://pan.baidu.com/s/13sLB7sP2I6_NKlhuKKugMQ?pwd=j0jb) 提取码：j0jb
-8.  《斯蒂芬.沙梅特- 你必须知道的495个C语言问题》：[百度云链接](https://pan.baidu.com/s/1TMdsoKgn1wTw0OAHbzFLhQ?pwd=786c) 提取码：786c
+7.  《斯蒂芬 - C Primer Plus(第五版)中文版》：❌[百度云链接](https://pan.baidu.com/s/13sLB7sP2I6_NKlhuKKugMQ?pwd=j0jb) 提取码：j0jb；✅[蓝奏云](https://cunyu1943.lanzout.com/i9CqP00wa9cj)
+8.  《斯蒂芬.沙梅特- 你必须知道的495个C语言问题》：❌[百度云链接](https://pan.baidu.com/s/1TMdsoKgn1wTw0OAHbzFLhQ?pwd=786c) 提取码：786c；✅[蓝奏云](https://cunyu1943.lanzout.com/iOHSg00waa2f)
 9.  《斯科特 - Effective C 中文版(第3版)》：[百度云链接](https://pan.baidu.com/s/1vO6IbyJCXN52bmTCrO6IJw?pwd=9hq8) 提取码：9hq8
-10.  《王娣 - C语言从入门到精通》：[百度云链接](https://pan.baidu.com/s/10KPilJq2aN4kBjvgeCbPHQ?pwd=kish) 提取码：kish
-11.  《张小潘 - C语言编程：一本全面的C语言入门教程  （第3版）》：[百度云链接](https://pan.baidu.com/s/1nSJ49tE23HuVp-b_yViFsw?pwd=bi8n) 提取码：bi8n
-12.  《郑赟 - Hello C语言》：[百度云链接](https://pan.baidu.com/s/16-dIucYLZu84zMx5ZDijBA?pwd=umaa) 提取码：umaa
+10.  《王娣 - C语言从入门到精通》：❌[百度云链接](https://pan.baidu.com/s/10KPilJq2aN4kBjvgeCbPHQ?pwd=kish) 提取码：kish；✅[蓝奏云](https://cunyu1943.lanzout.com/i3PKQ00wab2b)
+11.  《张小潘 - C语言编程：一本全面的C语言入门教程  （第3版）》：❌[百度云链接](https://pan.baidu.com/s/1nSJ49tE23HuVp-b_yViFsw?pwd=bi8n) 提取码：bi8n；✅[蓝奏云](https://cunyu1943.lanzout.com/igS8u00wabed)
+12.  《郑赟 - Hello C语言》：❌[百度云链接](https://pan.baidu.com/s/16-dIucYLZu84zMx5ZDijBA?pwd=umaa) 提取码：umaa；✅[蓝奏云](https://cunyu1943.lanzout.com/iMS7E00wabkj)
 
 ## C++
 
-1.  《Google C++ 编程风格指南》：[百度云链接](https://pan.baidu.com/s/1kGBUZfv9wjtwlFX8HEXHdA?pwd=lqxs) 提取码：lqxs
+1.  《Google C++ 编程风格指南》：❌[百度云链接](https://pan.baidu.com/s/1kGBUZfv9wjtwlFX8HEXHdA?pwd=lqxs) 提取码：lqxs；✅[蓝奏云](https://cunyu1943.lanzout.com/ibA6t00wabod)
 2.  《保罗·戴特尔  - C++大学教程(第九版)》：[百度云链接](https://pan.baidu.com/s/1qJ0sruPjlMdWFnSiWOIxYQ?pwd=vr4p) 提取码：vr4p
-3.  《斯蒂芬 - C++ Primer Plus中文版第五版》：[百度云链接](https://pan.baidu.com/s/1sdQFMVB53GTwKawdrIbptw?pwd=qlan) 提取码：qlan
-4.  《斯蒂芬 - C++.Primer.Plus 中文第 6 版》：[百度云链接](https://pan.baidu.com/s/15z1lQ85OLTlPJR4doJ2_3g?pwd=6y19) 提取码：6y19
+3.  《斯蒂芬 - C++ Primer Plus中文版第五版》：❌[百度云链接](https://pan.baidu.com/s/1sdQFMVB53GTwKawdrIbptw?pwd=qlan) 提取码：qlan；✅[蓝奏云](https://cunyu1943.lanzout.com/iuHw400wa9na)
+4.  《斯蒂芬 - C++.Primer.Plus 中文第 6 版》：❌[百度云链接](https://pan.baidu.com/s/15z1lQ85OLTlPJR4doJ2_3g?pwd=6y19) 提取码：6y19；✅[蓝奏云](https://cunyu1943.lanzout.com/i2hGN00wa9tg)
 5.  《斯科特 - C++高级编程(第2版)》：[百度云链接](https://pan.baidu.com/s/14rbtNEtMTBuCR_BI4kSG5g?pwd=k6lu) 提取码：k6lu
 
 ## Go
@@ -153,17 +153,17 @@
 ## 办公
 
 1.   《大道至简  Excel这么学最简单》：[百度云链接](https://pan.baidu.com/s/17DjVtjI_a1cLyGsZGrXHkA) 提取码：eeoy
-2.   《郭新房 - Visio 2013图形设计从新手到高手》：[百度云链接](https://pan.baidu.com/s/1z7sc3RStd89oPE304MCg0A) 提取码：hwuj
+2.   《郭新房 - Visio 2013图形设计从新手到高手》：❌[百度云链接](https://pan.baidu.com/s/1z7sc3RStd89oPE304MCg0A) 提取码：hwuj；✅[蓝奏云](https://cunyu1943.lanzout.com/iv2VS00w99md)
 3.   《李栋 - PPT高手之路》：[百度云链接](https://pan.baidu.com/s/1hqT1E0iYt71Svl4XaGKqgg) 提取码：vcx6
 4.   《李金蓉 - Photoshop CC高手成长之路》：[百度云链接](https://pan.baidu.com/s/1n3uIYbZ78Ai_rB6QP4dRBQ) 提取码：wwoq
-5.   《零一 - Excel BI之道：从零开始学Power工具应用》：[百度云链接](https://pan.baidu.com/s/1IzQfKWzP2cucc-T8PrjVpQ) 提取码：yg0m
-6.   《毛宇航 - Flash CC动画制作实战从入门到精通》：[百度云链接](https://pan.baidu.com/s/1lv1JOEmsKC0v4LrPkjOI1w) 提取码：04nh
-7.   《秋叶 - 和秋叶一起学  PPT又快又好打造说服力幻灯片》：[百度云链接](https://pan.baidu.com/s/1OOtwErptFMdtoehVqH7ntg) 提取码：arqj
-8.   《秋叶 - 和秋叶一起学Excel_秋叶_人民邮电_2017.7》：[百度云链接](https://pan.baidu.com/s/1W2JbvEzod5_Id5c8GljRnA) 提取码：amfb
-9.   《秋叶 - 和秋叶一起学WORD（第2版）》：[百度云链接](https://pan.baidu.com/s/1PLNJFQAaAyaQu000HX5eZw) 提取码：yfcm
+5.   《零一 - Excel BI之道：从零开始学Power工具应用》：❌[百度云链接](https://pan.baidu.com/s/1IzQfKWzP2cucc-T8PrjVpQ) 提取码：yg0m；✅[蓝奏云](https://cunyu1943.lanzout.com/iX3tK00w9a2j)
+6.   《毛宇航 - Flash CC动画制作实战从入门到精通》：❌[百度云链接](https://pan.baidu.com/s/1lv1JOEmsKC0v4LrPkjOI1w) 提取码：04nh；✅[蓝奏云](https://cunyu1943.lanzout.com/iCUBC00w9abi)
+7.   《秋叶 - 和秋叶一起学  PPT又快又好打造说服力幻灯片》：❌[百度云链接](https://pan.baidu.com/s/1OOtwErptFMdtoehVqH7ntg) 提取码：arqj；✅[蓝奏云](https://cunyu1943.lanzout.com/itp7T00w9b9c)
+8.   《秋叶 - 和秋叶一起学Excel_秋叶_人民邮电_2017.7》：❌[百度云链接](https://pan.baidu.com/s/1W2JbvEzod5_Id5c8GljRnA) 提取码：amfb；✅[蓝奏云](https://cunyu1943.lanzout.com/iuKNm00w9cba)
+9.   《秋叶 - 和秋叶一起学WORD（第2版）》：❌[百度云链接](https://pan.baidu.com/s/1PLNJFQAaAyaQu000HX5eZw) 提取码：yfcm；✅[蓝奏云](https://cunyu1943.lanzout.com/iNOJv00w9cwb)
 10. 《史卫亚 - Excel 2019从入门到精通》：[百度云链接](https://pan.baidu.com/s/1-xnHaCMcRs8RPISmWsHAWg) 提取码：ms7k
-11.   《先锋影像 - Photoshop摄影后期必备99招》：[百度云链接](https://pan.baidu.com/s/1NtOXHFB1e7Cbqw_3u8_Mkw) 提取码：gwpd
-12.   《叶霞 - 财务信息处理与分析：Excel 2016》：[百度云链接](https://pan.baidu.com/s/1lanis6P9hew9_5TIzSbXZA) 提取码：vnhs
+11.   《先锋影像 - Photoshop摄影后期必备99招》：❌[百度云链接](https://pan.baidu.com/s/1NtOXHFB1e7Cbqw_3u8_Mkw) 提取码：gwpd；✅[蓝奏云](https://cunyu1943.lanzout.com/ik9Mp00w9dza)
+12.   《叶霞 - 财务信息处理与分析：Excel 2016》：❌[百度云链接](https://pan.baidu.com/s/1lanis6P9hew9_5TIzSbXZA) 提取码：vnhs；✅[蓝奏云](https://cunyu1943.lanzout.com/iULHd00w9emd)
 13.   《易学易用系列  新编EXCEL 2016从入门到精通》：[百度云链接](https://pan.baidu.com/s/1Wn9VlAX4bdy8xy2IQwQvFg) 提取码：2mlf
 
 ## 程序员必读
