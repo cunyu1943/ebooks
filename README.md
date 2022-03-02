@@ -162,9 +162,9 @@
 8.   《秋叶 - 和秋叶一起学Excel_秋叶_人民邮电_2017.7》：[百度云链接](https://pan.baidu.com/s/1W2JbvEzod5_Id5c8GljRnA) 提取码：amfb
 9.   《秋叶 - 和秋叶一起学WORD（第2版）》：[百度云链接](https://pan.baidu.com/s/1PLNJFQAaAyaQu000HX5eZw) 提取码：yfcm
 10. 《史卫亚 - Excel 2019从入门到精通》：[百度云链接](https://pan.baidu.com/s/1-xnHaCMcRs8RPISmWsHAWg) 提取码：ms7k
-10.   《先锋影像 - Photoshop摄影后期必备99招》：[百度云链接](https://pan.baidu.com/s/1NtOXHFB1e7Cbqw_3u8_Mkw) 提取码：gwpd
-11.   《叶霞 - 财务信息处理与分析：Excel 2016》：[百度云链接](https://pan.baidu.com/s/1lanis6P9hew9_5TIzSbXZA) 提取码：vnhs
-12.   《易学易用系列  新编EXCEL 2016从入门到精通》：[百度云链接](https://pan.baidu.com/s/1Wn9VlAX4bdy8xy2IQwQvFg) 提取码：2mlf
+11.   《先锋影像 - Photoshop摄影后期必备99招》：[百度云链接](https://pan.baidu.com/s/1NtOXHFB1e7Cbqw_3u8_Mkw) 提取码：gwpd
+12.   《叶霞 - 财务信息处理与分析：Excel 2016》：[百度云链接](https://pan.baidu.com/s/1lanis6P9hew9_5TIzSbXZA) 提取码：vnhs
+13.   《易学易用系列  新编EXCEL 2016从入门到精通》：[百度云链接](https://pan.baidu.com/s/1Wn9VlAX4bdy8xy2IQwQvFg) 提取码：2mlf
 
 ## 程序员必读
 
@@ -236,10 +236,10 @@
 1.   《Susan Li - Develop a NLP Model in Python & Deploy It with Flask, Step by Step》：[百度云链接](https://pan.baidu.com/s/1eamH9VvDeiEB23yZ0wuyZA?pwd=rbcb) 提取码：rbcb
 2.   《丹尼尔 - 自然语言处理综述（英文第三版）》：[百度云链接](https://pan.baidu.com/s/1C4IcrukfCuR_LXBn44gqgg?pwd=ik9u) 提取码：ik9u
 3.   《克里斯托弗·d·曼宁 - 统计自然语言处理基础》：[百度云链接](https://pan.baidu.com/s/1sKbxiD5AvUFhghmT8dyBTg?pwd=2v72) 提取码：2v72
-4. 《肖桐 - 机器翻译统计建模与深度学习方法》：[百度云链接](https://pan.baidu.com/s/1s27aDeoOJWbJU54hDEKFkg) 提取码：bdz3 
+4. 《肖桐 - 机器翻译统计建模与深度学习方法》：❌[百度云链接](https://pan.baidu.com/s/1s27aDeoOJWbJU54hDEKFkg) 提取码：bdz3；✅[蓝奏云](https://cunyu1943.lanzout.com/idm1D00v8pqb)
 5. 《克里斯托弗·d·曼宁 - 信息检索导论》：[百度云链接](https://pan.baidu.com/s/1c5OWLRE4AbLAMcPE9DtS2A?pwd=wx9h) 提取码：wx9h
-5.   《用Python进行自然语言处理》：[百度云链接](https://pan.baidu.com/s/18A_1hDMNCLMVcYJds2VPyQ) 提取码：bk9t
-6.   《宗成庆- 统计自然语言处理 》：[百度云链接](https://pan.baidu.com/s/1LMwoTszouuOvwcHpANNrmA) 提取码：di75
+6.   《用Python进行自然语言处理》：[百度云链接](https://pan.baidu.com/s/18A_1hDMNCLMVcYJds2VPyQ) 提取码：bk9t
+7.   《宗成庆- 统计自然语言处理 》：[百度云链接](https://pan.baidu.com/s/1LMwoTszouuOvwcHpANNrmA) 提取码：di75
 
 ### 其他
 
@@ -268,7 +268,7 @@
 
 1.   《Baron - 高性能 MySQL 第三版》：[百度云链接](https://pan.baidu.com/s/1oClRwVF0ZuklooNOKmoSFA) 提取码：zz63
 2.   《MySQL5.7从入门到精通》：[百度云链接](https://pan.baidu.com/s/15PTgNmsLFkCirf5Us7EnQw) 提取码：qnfy
-3.   《MySQL是怎样运行的：从根儿上理解MySQL》：[百度云链接](https://pan.baidu.com/s/1uixszYM0xWlHee8m9WCQ_Q) 提取码：2znu
+3.   《MySQL是怎样运行的：从根儿上理解MySQL》：❌[百度云链接](https://pan.baidu.com/s/1uixszYM0xWlHee8m9WCQ_Q) 提取码：2znu；✅[蓝奏云](https://cunyu1943.lanzout.com/iwkPB00v8isb)
 4.   《MySQL性能调优与架构设计+PDF中文版全册》：[百度云链接](https://pan.baidu.com/s/1Xwd35Qn3z-GLjMmZu_nqEQ) 提取码：t9wu
 5.   《Tapio - 数据库索引设计与优化》：[百度云链接](https://pan.baidu.com/s/1snAf_IoNJMLoUwiGlhS59A) 提取码：c1dk
 6.   《姜承尧 - MySQL技术内幕：SQL编程》：[百度云链接](https://pan.baidu.com/s/1VZVUkBWu-z1d_t-hQDjVcw) 提取码：iq0f
