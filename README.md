@@ -235,7 +235,8 @@
 1.   《Susan Li - Develop a NLP Model in Python & Deploy It with Flask, Step by Step》：[百度云链接](https://pan.baidu.com/s/1eamH9VvDeiEB23yZ0wuyZA?pwd=rbcb) 提取码：rbcb
 2.   《丹尼尔 - 自然语言处理综述（英文第三版）》：[百度云链接](https://pan.baidu.com/s/1C4IcrukfCuR_LXBn44gqgg?pwd=ik9u) 提取码：ik9u
 3.   《克里斯托弗·d·曼宁 - 统计自然语言处理基础》：[百度云链接](https://pan.baidu.com/s/1sKbxiD5AvUFhghmT8dyBTg?pwd=2v72) 提取码：2v72
-4.   《克里斯托弗·d·曼宁 - 信息检索导论》：[百度云链接](https://pan.baidu.com/s/1c5OWLRE4AbLAMcPE9DtS2A?pwd=wx9h) 提取码：wx9h
+4. 《肖桐 - 机器翻译统计建模与深度学习方法》：[百度云链接](https://pan.baidu.com/s/1s27aDeoOJWbJU54hDEKFkg) 提取码：bdz3 
+5. 《克里斯托弗·d·曼宁 - 信息检索导论》：[百度云链接](https://pan.baidu.com/s/1c5OWLRE4AbLAMcPE9DtS2A?pwd=wx9h) 提取码：wx9h
 5.   《用Python进行自然语言处理》：[百度云链接](https://pan.baidu.com/s/18A_1hDMNCLMVcYJds2VPyQ) 提取码：bk9t
 6.   《宗成庆- 统计自然语言处理 》：[百度云链接](https://pan.baidu.com/s/1LMwoTszouuOvwcHpANNrmA) 提取码：di75
 
