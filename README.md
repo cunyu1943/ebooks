@@ -79,12 +79,13 @@
 
 ## C++
 
-1.  《C++并发编程实战_[美]Anthony+Williams_人民邮电》[百度云链接](https://pan.baidu.com/s/1cLE2OFWs0HAq79pi2ZaVkw) 提取码: qgv7 ；[蓝奏云](https://cunyu1943.lanzout.com/ioAbV03nlh1g)
-2.  《Google C++ 编程风格指南》：❌[百度云链接](https://pan.baidu.com/s/1kGBUZfv9wjtwlFX8HEXHdA?pwd=lqxs) 提取码：lqxs；✅[蓝奏云](https://cunyu1943.lanzout.com/ibA6t00wabod)
-3.  《保罗·戴特尔  - C++大学教程(第九版)》：[百度云链接](https://pan.baidu.com/s/1qJ0sruPjlMdWFnSiWOIxYQ?pwd=vr4p) 提取码：vr4p
-4.  《斯蒂芬 - C++ Primer Plus中文版第五版》：❌[百度云链接](https://pan.baidu.com/s/1sdQFMVB53GTwKawdrIbptw?pwd=qlan) 提取码：qlan；✅[蓝奏云](https://cunyu1943.lanzout.com/iuHw400wa9na)
-5.  《斯蒂芬 - C++.Primer.Plus 中文第 6 版》：❌[百度云链接](https://pan.baidu.com/s/15z1lQ85OLTlPJR4doJ2_3g?pwd=6y19) 提取码：6y19；✅[蓝奏云](https://cunyu1943.lanzout.com/i2hGN00wa9tg)
-6.  《斯科特 - C++高级编程(第2版)》：[百度云链接](https://pan.baidu.com/s/14rbtNEtMTBuCR_BI4kSG5g?pwd=k6lu) 提取码：k6lu
+1.  《C++并发编程实战_[美]Anthony+Williams_人民邮电》：[百度云链接](https://pan.baidu.com/s/1cLE2OFWs0HAq79pi2ZaVkw) 提取码: qgv7 ；[蓝奏云](https://cunyu1943.lanzout.com/ioAbV03nlh1g)
+2.  《Effective C++中文版(第三版)》：[百度云链接](https://pan.baidu.com/s/14Y_Q8bzMX19QAgqANnc2Gg) 提取码: z4ep ；[蓝奏云](https://cunyu1943.lanzout.com/i6QOO03nm6af)
+3.  《Google C++ 编程风格指南》：❌[百度云链接](https://pan.baidu.com/s/1kGBUZfv9wjtwlFX8HEXHdA?pwd=lqxs) 提取码：lqxs；✅[蓝奏云](https://cunyu1943.lanzout.com/ibA6t00wabod)
+4.  《保罗·戴特尔  - C++大学教程(第九版)》：[百度云链接](https://pan.baidu.com/s/1qJ0sruPjlMdWFnSiWOIxYQ?pwd=vr4p) 提取码：vr4p
+5.  《斯蒂芬 - C++ Primer Plus中文版第五版》：❌[百度云链接](https://pan.baidu.com/s/1sdQFMVB53GTwKawdrIbptw?pwd=qlan) 提取码：qlan；✅[蓝奏云](https://cunyu1943.lanzout.com/iuHw400wa9na)
+6.  《斯蒂芬 - C++.Primer.Plus 中文第 6 版》：❌[百度云链接](https://pan.baidu.com/s/15z1lQ85OLTlPJR4doJ2_3g?pwd=6y19) 提取码：6y19；✅[蓝奏云](https://cunyu1943.lanzout.com/i2hGN00wa9tg)
+7.  《斯科特 - C++高级编程(第2版)》：[百度云链接](https://pan.baidu.com/s/14rbtNEtMTBuCR_BI4kSG5g?pwd=k6lu) 提取码：k6lu
 
 ## Go
 
