@@ -90,10 +90,11 @@
 ## Go
 
 1.  《Go 语言 101》：[百度云链接](https://pan.baidu.com/s/1YGEGOGMd8JtzaJ8S7_FjHg) 提取码：pbko
-2.  《William Kennedy - Go 语言实战》：[百度云链接](https://pan.baidu.com/s/1XsYxFwNMSwmz_ENQ1ClFtg) 提取码：z0ap
-3.  《柴树杉 - Go语言高级编程》：[百度云链接](https://pan.baidu.com/s/1vZWeulAMDUwxYWT_xUwLTw) 提取码：vosy
-4.  《李文塔 - Go语言核心编程》：[百度云链接](https://pan.baidu.com/s/1mee-7HwqFip08P27q4CnFw) 提取码：ava7
-5.  《雨痕 - Go 语言学习笔记》：[百度云链接](https://pan.baidu.com/s/1RNVdIvfIGJwleSDvcEQghQ) 提取码：n0xp
+2.  《Go语言圣经-中文版》：[百度云链接](https://pan.baidu.com/s/1BJ3o0jmH5vDWsgsMLUaEFw) 提取码: hkne；[蓝奏云](https://cunyu1943.lanzout.com/iNgEL03nnavg)
+3.  《William Kennedy - Go 语言实战》：[百度云链接](https://pan.baidu.com/s/1XsYxFwNMSwmz_ENQ1ClFtg) 提取码：z0ap
+4.  《柴树杉 - Go语言高级编程》：[百度云链接](https://pan.baidu.com/s/1vZWeulAMDUwxYWT_xUwLTw) 提取码：vosy
+5.  《李文塔 - Go语言核心编程》：[百度云链接](https://pan.baidu.com/s/1mee-7HwqFip08P27q4CnFw) 提取码：ava7
+6.  《雨痕 - Go 语言学习笔记》：[百度云链接](https://pan.baidu.com/s/1RNVdIvfIGJwleSDvcEQghQ) 提取码：n0xp
 
 ## Java
 
