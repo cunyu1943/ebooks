@@ -63,26 +63,28 @@
 
 ## C 语言
 
-1.  《啊哈磊 - 啊哈c语言》：❌[百度云链接](https://pan.baidu.com/s/1kRca9RFSrpDo2yAxGVoyiQ?pwd=h5zs) 提取码：h5zs；✅[蓝奏云](https://cunyu1943.lanzout.com/iaBRr00wa80b)
-2.  《安德鲁 - C陷阱与缺陷(C和C++经典著作)》：❌[百度云链接](https://pan.baidu.com/s/1-MZ3X8C1EbDSBLu8ZTs0tw?pwd=g0vx) 提取码：g0vx；✅[蓝奏云](https://cunyu1943.lanzout.com/iYbC000wa83e)
-3.  《布拉德利 - 21天学通C语言（第六版）》：[百度云链接](https://pan.baidu.com/s/1e0tGdZWdnIri0f7vlt8cRA?pwd=8fzp) 提取码：8fzp；✅[蓝奏云](https://cunyu1943.lanzout.com/inMvK00wa8ab)
-4.  《柴田望洋 - 明解C语言》：❌[百度云链接](https://pan.baidu.com/s/1sH3GdLsZn84KR6v6oNIMzg?pwd=c51h) 提取码：c51h；✅[蓝奏云](https://cunyu1943.lanzout.com/i8pr700wa8of)
-5.  《大卫.格里芬 - Head.First.C(2012)》：❌[百度云链接](https://pan.baidu.com/s/1FFscVmdJgHkw6o_d4EpcwQ?pwd=3h1f) 提取码：3h1f；✅[蓝奏云](https://cunyu1943.lanzout.com/isRXN00wa8xe)
-6.  《霍尔顿 - c语言入门经典(第5版)》：[百度云链接](https://pan.baidu.com/s/1LG4lrst6-mdJfR6URnD5tg?pwd=87aa) 提取码：87aa
-7.  《斯蒂芬 - C Primer Plus(第五版)中文版》：❌[百度云链接](https://pan.baidu.com/s/13sLB7sP2I6_NKlhuKKugMQ?pwd=j0jb) 提取码：j0jb；✅[蓝奏云](https://cunyu1943.lanzout.com/i9CqP00wa9cj)
-8.  《斯蒂芬.沙梅特- 你必须知道的495个C语言问题》：❌[百度云链接](https://pan.baidu.com/s/1TMdsoKgn1wTw0OAHbzFLhQ?pwd=786c) 提取码：786c；✅[蓝奏云](https://cunyu1943.lanzout.com/iOHSg00waa2f)
-9.  《斯科特 - Effective C 中文版(第3版)》：[百度云链接](https://pan.baidu.com/s/1vO6IbyJCXN52bmTCrO6IJw?pwd=9hq8) 提取码：9hq8
-10.  《王娣 - C语言从入门到精通》：❌[百度云链接](https://pan.baidu.com/s/10KPilJq2aN4kBjvgeCbPHQ?pwd=kish) 提取码：kish；✅[蓝奏云](https://cunyu1943.lanzout.com/i3PKQ00wab2b)
-11.  《张小潘 - C语言编程：一本全面的C语言入门教程  （第3版）》：❌[百度云链接](https://pan.baidu.com/s/1nSJ49tE23HuVp-b_yViFsw?pwd=bi8n) 提取码：bi8n；✅[蓝奏云](https://cunyu1943.lanzout.com/igS8u00wabed)
-12.  《郑赟 - Hello C语言》：❌[百度云链接](https://pan.baidu.com/s/16-dIucYLZu84zMx5ZDijBA?pwd=umaa) 提取码：umaa；✅[蓝奏云](https://cunyu1943.lanzout.com/iMS7E00wabkj)
+1.  《C程序设计语言(第2版·新版)》：[百度云链接](https://pan.baidu.com/s/1x9W-2KQ92pIN5cqj52MGnw) 提取码: kx6k；[蓝奏云](https://cunyu1943.lanzout.com/iwOGa03nlcwh) 
+2.  《啊哈磊 - 啊哈c语言》：❌[百度云链接](https://pan.baidu.com/s/1kRca9RFSrpDo2yAxGVoyiQ?pwd=h5zs) 提取码：h5zs；✅[蓝奏云](https://cunyu1943.lanzout.com/iaBRr00wa80b)
+3.  《安德鲁 - C陷阱与缺陷(C和C++经典著作)》：❌[百度云链接](https://pan.baidu.com/s/1-MZ3X8C1EbDSBLu8ZTs0tw?pwd=g0vx) 提取码：g0vx；✅[蓝奏云](https://cunyu1943.lanzout.com/iYbC000wa83e)
+4.  《布拉德利 - 21天学通C语言（第六版）》：[百度云链接](https://pan.baidu.com/s/1e0tGdZWdnIri0f7vlt8cRA?pwd=8fzp) 提取码：8fzp；✅[蓝奏云](https://cunyu1943.lanzout.com/inMvK00wa8ab)
+5.  《柴田望洋 - 明解C语言》：❌[百度云链接](https://pan.baidu.com/s/1sH3GdLsZn84KR6v6oNIMzg?pwd=c51h) 提取码：c51h；✅[蓝奏云](https://cunyu1943.lanzout.com/i8pr700wa8of)
+6.  《大卫.格里芬 - Head.First.C(2012)》：❌[百度云链接](https://pan.baidu.com/s/1FFscVmdJgHkw6o_d4EpcwQ?pwd=3h1f) 提取码：3h1f；✅[蓝奏云](https://cunyu1943.lanzout.com/isRXN00wa8xe)
+7.  《霍尔顿 - c语言入门经典(第5版)》：[百度云链接](https://pan.baidu.com/s/1LG4lrst6-mdJfR6URnD5tg?pwd=87aa) 提取码：87aa
+8.  《斯蒂芬 - C Primer Plus(第五版)中文版》：❌[百度云链接](https://pan.baidu.com/s/13sLB7sP2I6_NKlhuKKugMQ?pwd=j0jb) 提取码：j0jb；✅[蓝奏云](https://cunyu1943.lanzout.com/i9CqP00wa9cj)
+9.  《斯蒂芬.沙梅特- 你必须知道的495个C语言问题》：❌[百度云链接](https://pan.baidu.com/s/1TMdsoKgn1wTw0OAHbzFLhQ?pwd=786c) 提取码：786c；✅[蓝奏云](https://cunyu1943.lanzout.com/iOHSg00waa2f)
+10.  《斯科特 - Effective C 中文版(第3版)》：[百度云链接](https://pan.baidu.com/s/1vO6IbyJCXN52bmTCrO6IJw?pwd=9hq8) 提取码：9hq8
+11.  《王娣 - C语言从入门到精通》：❌[百度云链接](https://pan.baidu.com/s/10KPilJq2aN4kBjvgeCbPHQ?pwd=kish) 提取码：kish；✅[蓝奏云](https://cunyu1943.lanzout.com/i3PKQ00wab2b)
+12.  《张小潘 - C语言编程：一本全面的C语言入门教程  （第3版）》：❌[百度云链接](https://pan.baidu.com/s/1nSJ49tE23HuVp-b_yViFsw?pwd=bi8n) 提取码：bi8n；✅[蓝奏云](https://cunyu1943.lanzout.com/igS8u00wabed)
+13.  《郑赟 - Hello C语言》：❌[百度云链接](https://pan.baidu.com/s/16-dIucYLZu84zMx5ZDijBA?pwd=umaa) 提取码：umaa；✅[蓝奏云](https://cunyu1943.lanzout.com/iMS7E00wabkj)
 
 ## C++
 
-1.  《Google C++ 编程风格指南》：❌[百度云链接](https://pan.baidu.com/s/1kGBUZfv9wjtwlFX8HEXHdA?pwd=lqxs) 提取码：lqxs；✅[蓝奏云](https://cunyu1943.lanzout.com/ibA6t00wabod)
-2.  《保罗·戴特尔  - C++大学教程(第九版)》：[百度云链接](https://pan.baidu.com/s/1qJ0sruPjlMdWFnSiWOIxYQ?pwd=vr4p) 提取码：vr4p
-3.  《斯蒂芬 - C++ Primer Plus中文版第五版》：❌[百度云链接](https://pan.baidu.com/s/1sdQFMVB53GTwKawdrIbptw?pwd=qlan) 提取码：qlan；✅[蓝奏云](https://cunyu1943.lanzout.com/iuHw400wa9na)
-4.  《斯蒂芬 - C++.Primer.Plus 中文第 6 版》：❌[百度云链接](https://pan.baidu.com/s/15z1lQ85OLTlPJR4doJ2_3g?pwd=6y19) 提取码：6y19；✅[蓝奏云](https://cunyu1943.lanzout.com/i2hGN00wa9tg)
-5.  《斯科特 - C++高级编程(第2版)》：[百度云链接](https://pan.baidu.com/s/14rbtNEtMTBuCR_BI4kSG5g?pwd=k6lu) 提取码：k6lu
+1.  《C++并发编程实战_[美]Anthony+Williams_人民邮电》[百度云链接](https://pan.baidu.com/s/1cLE2OFWs0HAq79pi2ZaVkw) 提取码: qgv7 ；[蓝奏云](https://cunyu1943.lanzout.com/ioAbV03nlh1g)
+2.  《Google C++ 编程风格指南》：❌[百度云链接](https://pan.baidu.com/s/1kGBUZfv9wjtwlFX8HEXHdA?pwd=lqxs) 提取码：lqxs；✅[蓝奏云](https://cunyu1943.lanzout.com/ibA6t00wabod)
+3.  《保罗·戴特尔  - C++大学教程(第九版)》：[百度云链接](https://pan.baidu.com/s/1qJ0sruPjlMdWFnSiWOIxYQ?pwd=vr4p) 提取码：vr4p
+4.  《斯蒂芬 - C++ Primer Plus中文版第五版》：❌[百度云链接](https://pan.baidu.com/s/1sdQFMVB53GTwKawdrIbptw?pwd=qlan) 提取码：qlan；✅[蓝奏云](https://cunyu1943.lanzout.com/iuHw400wa9na)
+5.  《斯蒂芬 - C++.Primer.Plus 中文第 6 版》：❌[百度云链接](https://pan.baidu.com/s/15z1lQ85OLTlPJR4doJ2_3g?pwd=6y19) 提取码：6y19；✅[蓝奏云](https://cunyu1943.lanzout.com/i2hGN00wa9tg)
+6.  《斯科特 - C++高级编程(第2版)》：[百度云链接](https://pan.baidu.com/s/14rbtNEtMTBuCR_BI4kSG5g?pwd=k6lu) 提取码：k6lu
 
 ## Go
 
@@ -299,5 +301,4 @@
 ## Authors
 
 - [@cunyu1943](https://www.github.com/cunyu1943)
-
 
