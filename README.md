@@ -15,6 +15,11 @@
 | ![GitHub watchers](https://img.shields.io/github/watchers/cunyu1943/ebooks?color=blueviolet&style=for-the-badge) | ![GitHub forks](https://img.shields.io/github/forks/cunyu1943/ebooks?color=orange&style=for-the-badge) | ![GitHub Repo stars](https://img.shields.io/github/stars/cunyu1943/ebooks?color=success&style=for-the-badge) | ![GitHub](https://img.shields.io/github/license/cunyu1943/ebooks?style=for-the-badge) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
+## 我的其他项目
+
+[![JavaPark](https://github-readme-stats.vercel.app/api/pin/?username=cunyu1943&repo=JavaPark&show_icons=true&theme=radical)](https://github.com/cunyu1943/JavaPark)
+[![code-library](https://github-readme-stats.vercel.app/api/pin/?username=cunyu1943&repo=code-library&show_icons=true&theme=radical)](https://github.com/cunyu1943/code-library)
+
 ## 免责声明
 
 > 声明，所有资源均来源于网络其他人的整理，这里只是收集整理用途，个人更推荐实体店、网络商城等途径购买正版。
