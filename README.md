@@ -197,6 +197,7 @@
 12.   《王元杰 - 一本书读懂TCPIP》：[百度云链接](https://pan.baidu.com/s/1p-e4ISrd5_d7wifaaBFZVA) 提取码：j7h7
 13.   《西尾泰和 - 代码之髓 编程语言核心概念》：[百度云链接](https://pan.baidu.com/s/1t1YJJkIE3lpnd1ALFdNNYQ) 提取码：yt23
 14.   《俞甲子 - 程序员的自我修养--链接、装载与库》：[百度云链接](https://pan.baidu.com/s/1m-La8F9M8dvC6jPcjW8b2A) 提取码：kyba
+15. 《吴军 - 浪潮之巅（第四版）》：[蓝奏云](https://cunyu1943.lanzout.com/iF9EN0tvuawd)
 
 
 
