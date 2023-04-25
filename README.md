@@ -100,6 +100,7 @@
 4.  《柴树杉 - Go语言高级编程》：[百度云链接](https://pan.baidu.com/s/1vZWeulAMDUwxYWT_xUwLTw) 提取码：vosy
 5.  《李文塔 - Go语言核心编程》：[百度云链接](https://pan.baidu.com/s/1mee-7HwqFip08P27q4CnFw) 提取码：ava7
 6.  《雨痕 - Go 语言学习笔记》：[百度云链接](https://pan.baidu.com/s/1RNVdIvfIGJwleSDvcEQghQ) 提取码：n0xp
+7. 《零壹快学 - 零基础Go语言从入门到精通》：[蓝奏云](https://cunyu1943.lanzout.com/i8OUm0twbrte)
 
 ## Java
 
